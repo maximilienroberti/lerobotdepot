@@ -18,7 +18,7 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
   - [Bi-manual Arms](#bi-manual-arms-dynamixel)
 - [Common Accessories & Add-ons](#common-accessories--add-ons)
   - [Task Kits](#task-kits)
-  - [Other Accessories](#other-accessories)
+  - [Other Accessories](#other)
 - [Teleoperation](#teleoperation)
 - [Cameras](#cameras)
 - [Contributing](#contributing)
@@ -60,7 +60,7 @@ The SO-ARM100 supports multiple wrist camera options to suit a variety of applic
 | 32x32mm UVC Module     |[SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_32x32_UVC_Module)| |
 | [Arducam 5MP Wide Angle](https://a.co/d/dFq7oRB) |[Le Kiwi STL File](https://github.com/SIGRobotics-UIUC/LeKiwi/blob/main/3DPrintMeshes/wrist_camera_mount.stl)| It can also be used with 32x32mm UVC modules, but if you don't use a wide-angle camera, the gripper will not appear in the camera view. |
 | [RealSense™ D405](https://www.intelrealsense.com/depth-camera-d405/) |[SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_RealSense_D405) | |
-| [RealSense™ D435](https://www.intelrealsense.com/depth-camera-d435/)  | [STL File](https://www.thingiverse.com/thing:6981459)                         | |
+| [RealSense™ D435](https://www.intelrealsense.com/depth-camera-d435/)  | [SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_RealSense_D435)                         | You can also use this mount with a Vinmooog camera using the included adapter. |
 
 
 ##### Haptic Sensors
@@ -137,7 +137,7 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 
 ### [Mr-C4T/AB-SO-BOT](https://github.com/Mr-C4T/AB-SO-BOT)
 
-AB-SO-BOT is built using a combination of 3D-printed parts and standard 4040-T-slot aluminium extrusion to create a flexible and modular body for the SO-ARM100 robotic arm. This modularity allows for easy customization, expansion, and adaptation for different robotic applications.
+AB-SO-BOT is built using a combination of 3D-printed parts and standard 4040 T-slot aluminium extrusions to create a customizable and modular body for the SO-ARM100.
 
 <img src="media/ab-so-bot.png" width="500">
 
@@ -218,6 +218,8 @@ Precise gripper compatible with SO-ARM100.
 <img src="media/so-100_chojins_gripper.png" width="500">
 
 ---
+
+## Track axis
 
 ### [avenhaus/SO-ARM100-Track-Axis](https://github.com/avenhaus/SO-ARM100-Track-Axis)
 
@@ -317,7 +319,7 @@ To increase friction on gripper.
   <img src="media/silicone_rubber.png" width="500">
 
 ### [Foam Tape](https://www.amazon.com/s?k=Window%2BFoam%2BSeal%2BTape%2B1%2F2Inch%2BWide%2BX%2B1%2F2Inch)
-Alternative to silicone rubber for increasing friction.
+Alternative to silicone rubber for increasing friction. You can add screws to avoid losing the foam tips. 
 
   <img src="media/foam_tape.jpg" width="500">
   
