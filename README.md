@@ -30,13 +30,13 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
 Hardware in this family uses **Feetech motors**—primarily the STS3215 series (7.4V and 12V variants), plus a higher-torque drop-in option (STS3250). These motors are popular for their balance between performance and cost. *(Note: all listed servos share the same external dimensions.)*
 
 - **[STS3215 (7.4V)](https://www.feetechrc.com/74v-19-kgcm-plastic-case-metal-tooth-magnetic-code-double-axis-ttl-series-steering-gear.html):** Typically offers a stall torque of approximately **16.5 kg·cm at 6V**. This option is often sufficient for basic robotics applications.  
-  *Est. unit price:* **~$29 / ~€24 / ~¥202 (RMB)**
+  *Est. unit price:* **~$14 / ~€12 / ~¥96 (RMB)**
 
 - **[STS3215 (12V)](https://www.feetechrc.com/12v-30kg-metal-shell-metal-tooth-iron-core-motor-magnetic-coding-double-shaft-ttl-series-steering-gear.html):** Delivers around **30 kg·cm** of stall torque, providing increased power for more demanding tasks.  
-  *Est. unit price:* **~$32 / ~€26 / ~¥220 (RMB)**
+  *Est. unit price:* **~$16.5 / ~€14 / ~¥110 (RMB)**
 
 - **[STS3250 (12V)](https://www.feetechrc.com/en/562636.html):** Same form factor, but delivers around **50 kg·cm** of stall torque for higher-load joints and heavier end-effectors.  
-  *Est. unit price:* **~$43–$49 / ~€36–€41 / ~¥299–¥338 (RMB)**
+  *Est. unit price:* **~$55 / ~€46.5 / ~¥380 (RMB)**
 
 > _Prices are rough single-unit estimates (excluding shipping/taxes) and may vary by reseller and region._
 
