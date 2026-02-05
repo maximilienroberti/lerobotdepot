@@ -174,6 +174,21 @@ Mobile version of the SO-ARM100.
 
 ## Mobile Bi-manual Arms
 
+### [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
+
+Practical low-cost **dual-arm mobile home robot**, built on top of the LeKiwi base and SO101 arms.
+
+<img src="media/xlerobot.png" width="500">
+
+| Price (buy parts yourself)                | US     | EU     | RMB        |
+|------------------------------------------|--------|--------|------------|
+| Basic (use your laptop, single RGB cam)  | ~$660  | ~€680  | ~¥3999     |
+
+#### Kits
+
+- Developer assembly kit available via WOWROBO.
+- See the project documentation for the latest kit details: https://xlerobot.readthedocs.io/
+
 ### [timqian/bambot](https://github.com/timqian/bambot)
 
 Mobile version of the SO-ARM100 with two arms.
