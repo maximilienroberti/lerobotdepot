@@ -193,7 +193,7 @@ Practical low-cost **dual-arm mobile home robot**, built on top of the LeKiwi ba
 
 Mobile version of the SO-ARM100 with two arms.
 
-<img alt="Bambot, open source, low-cost humanoid ($300)" src="media/bambot.png" width="500">
+<img src="media/bambot.png" width="500">
 
 |              Price        | US     | EU     | RMB       |
 |---------------------------|--------|--------|-----------|
