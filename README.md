@@ -189,6 +189,8 @@ Practical low-cost **dual-arm mobile home robot**, built on top of the LeKiwi ba
 - Developer assembly kit available via WOWROBO.
 - See the project documentation for the latest kit details: https://xlerobot.readthedocs.io/
 
+---
+
 ### [timqian/bambot](https://github.com/timqian/bambot)
 
 Mobile version of the SO-ARM100 with two arms.
