@@ -83,10 +83,12 @@ The SO-ARM100 supports multiple wrist camera options to suit a variety of applic
 
 #### Kits
 
-You can find kits for the SO100 arms here:  
-- [Seeed Studio](https://www.seeedstudio.com/SO-ARM100-3D-printed-Enclosure-p-6409.html)  
-- [WOWROBO](https://shop.wowrobo.com/products/so-arm100-diy-kit-assembled-version)  
-- [Phospho](https://robots.phospho.ai)  
+You can find kits for the SO100 arms here:
+- [partabot](https://partabot.com): Also include LeKiwi and [Aloha Mini](https://partabot.com/products/aloha-mini).
+- [Seeed Studio](https://www.seeedstudio.com/Robot-Kit-c-2476.html): Also include LeKiwi.
+- [WOWROBO](https://shop.wowrobo.com/collections/all): Also include Koch V1.1 and XLeRobot.
+- [Phospho](https://robots.phospho.ai): Also include Open Duck Mini.
+- [Autodiscovery](https://autodiscovery.eu/en/products/so-101-kit)
 
 Both **assembled** and **non-assembled** kits are available, depending on the supplier.
 
