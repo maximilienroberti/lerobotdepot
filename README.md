@@ -228,18 +228,24 @@ A project for a full body robot—currently featuring the torso and arms.
 
 ### [pollen-robotics/PincOpen](https://github.com/pollen-robotics/PincOpen)
 
-Parallel-finger gripper compatible with SO-ARM100.
+Parallel-finger gripper compatible with SO-ARM.
 
 <img src="media/PincOpen.png" width="500">
 
 #### Price:
 ~€25
 
+### [SO-arm Symmetrical Gripper]
+
+Symmetrical gripper compatible with SO-ARM.
+
+<img src="media/so-arm_symmetrical_gripper.png" width="500">
+
 ---
 
 ### [Chojins/LeRobot-S0-100-Models](https://github.com/Chojins/LeRobot-S0-100-Models)
 
-Precise gripper compatible with SO-ARM100.
+Precise gripper compatible with SO-ARM.
 
 <img src="media/so-100_chojins_gripper.png" width="500">
 
