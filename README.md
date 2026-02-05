@@ -235,6 +235,8 @@ Parallel-finger gripper compatible with SO-ARM.
 #### Price:
 ~€25
 
+---
+
 ### [SiegeLord/Symmetrical Gripper](https://github.com/SiegeLord/Robotics/tree/master/gripper_v2)
 
 Symmetrical gripper compatible with SO-ARM.
