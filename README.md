@@ -52,8 +52,8 @@ This **5 DOF arm** is the recommended arm to get started with LeRobot—especial
 
 |             Price         | US    | EU    | RMB       |
 |---------------------------|-------|-------|-----------|
-| Follower and Leader arms  | $232  | €244  | ￥1343.16 |
-| One Arm                   | $123  | €128  | ￥682.23  |
+| Follower and Leader arms  | $230  | €226  | ￥1343 |
+| One Arm                   | $122  | €124  | ￥682  |
 
 #### Accessories <a name="so-arm100-accessories"></a>
 
