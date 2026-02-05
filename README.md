@@ -44,7 +44,7 @@ By standardizing on this Feetech form factor, projects in the Feetech Family mai
 
 ## Robot Arms:
 
-### [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+### [SO-100 & SO-101 Arms](https://github.com/TheRobotStudio/SO-ARM100)
 
 This **5 DOF arm** is the recommended arm to get started with LeRobot—especially the 7.4V version.
 
