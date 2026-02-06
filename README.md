@@ -11,13 +11,14 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
   - [Mobile Bi-manual Arms](#mobile-bi-manual-arms)
   - [Humanoid Robots](#humanoid-robots)
   - [Bipedal Robots](#bipedal-robots)
-  - [Grippers & Accessories](#grippers--accessories)
+  - [Grippers & Accessories](#grippers-accessories)
   - [Track Axis](#track-axis)
 - [Dynamixel Family](#dynamixel-family)
   - [Robot Arms](#robot-arms-dynamixel)
   - [Bi-manual Arms](#bi-manual-arms-dynamixel)
+  - [Mobile Arms](#mobile-arms-dynamixel)
   - [Accessories](#accessories)
-- [Common Accessories & Add-ons](#common-accessories--add-ons)
+- [Common Accessories & Add-ons](#common-accessories-add-ons)
   - [Task Kits](#task-kits)
   - [Other Accessories](#other)
 - [Teleoperation](#teleoperation)
@@ -166,7 +167,7 @@ AB-SO-BOT is built using a combination of 3D-printed parts and standard 4040 T-s
 
 ---
 
-## Mobile Arms
+## Mobile Arms <a name="mobile-arms-dynamixel"></a>
 
 ### [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi)
 Mobile version of the SO-ARM100.
