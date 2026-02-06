@@ -16,6 +16,7 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
 - [Dynamixel Family](#dynamixel-family)
   - [Robot Arms](#robot-arms-dynamixel)
   - [Bi-manual Arms](#bi-manual-arms-dynamixel)
+  - [Accessories](#accessories)
 - [Common Accessories & Add-ons](#common-accessories--add-ons)
   - [Task Kits](#task-kits)
   - [Other Accessories](#other)
@@ -136,11 +137,20 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 - [Discord message on Bill Of Materials](https://discord.com/channels/1306427593586901092/1308906584239243274/1324588976312684595)
 - [Discord message on Beta v1.1 STEP files](https://discord.com/channels/1306427593586901092/1308906584239243274/1336551154368253972)
 
-
 |        Price              | US    |
 |---------------------------|-------|
 | Follower and Leader arms  | ± $450|
 
+### [nomorewzx/PingTi-Arm](https://github.com/nomorewzx/PingTi-Arm)
+
+A Low-Cost Robotic Arm with Human Arm Length.
+
+<img src="media/PingTi-Arm.png" width="500">
+
+|        Price              | US    | EU    |
+|---------------------------|-------|-------|
+| PingTi Follower arm       | ± $261| ± €218|
+| SO100 Leader Arm          | ± $127| ± €128|
 
 ---
 
