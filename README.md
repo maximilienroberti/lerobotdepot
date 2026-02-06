@@ -312,8 +312,8 @@ The Koch-v1-1 supports 2 wrist camera options:
 
 #### Kits
 
-- [WOWROBO Twinarm](https://shop.wowrobo.com/products/wowrobo-twinarm-robotic-arm-set-inspired-by-koch-v1-1): Robotic arm inspired by Kochv-1-1.
-- [robotis.us](https://robotis.us/project-bundles/)
+- [WOWROBO Twinarm](https://shop.wowrobo.com/products/wowrobo-twinarm-robotic-arm-set-inspired-by-koch-v1-1): Robotic arm inspired by Koch V1.1.
+- [robotis.us](https://robotis.us/project-bundles/): Include Leader/Follower of Koch V1.1 and the Dynamixel version of LeKiwi.
 
 ---
 
@@ -335,6 +335,16 @@ The system is designed for research in fine-grained bimanual manipulation. Its c
 #### Kits
 
 - [Aloha Stationary](https://www.trossenrobotics.com/aloha-stationary) by [Trossen Robotics](https://www.trossenrobotics.com)
+
+---
+
+## Mobile Arms
+
+### [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi/tree/main/DynamixelLeKiwi)
+
+Converted version of LeKiwi to use ROBOTIS components by using the Koch v1.1 arm, U2D2 motor controller, and Dynamixel XL430 motors for the mobile base.
+
+<img src="media/DynamixelLeKiwi.png" width="500">
 
 ---
 ## Accessories
