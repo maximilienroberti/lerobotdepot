@@ -324,6 +324,15 @@ The system is designed for research in fine-grained bimanual manipulation. Its c
 - [Aloha Stationary](https://www.trossenrobotics.com/aloha-stationary) by [Trossen Robotics](https://www.trossenrobotics.com)
 
 ---
+## Accessories
+
+### [jackvial/koch_robotic_arm_screwdriver](https://github.com/jackvial/koch_robotic_arm_screwdriver)
+
+A **screwdriver attachment** and **camera mount** for the Koch robotic arm.
+
+<img src="media/koch_screwdriver_camera_mount.png" width="500">
+
+---
 
 # Common Accessories & Add-ons
 
