@@ -141,6 +141,8 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 |---------------------------|-------|
 | Follower and Leader arms  | ± $450|
 
+---
+
 ### [nomorewzx/PingTi-Arm](https://github.com/nomorewzx/PingTi-Arm)
 
 A Low-Cost Robotic Arm with Human Arm Length.
