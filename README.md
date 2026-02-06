@@ -312,7 +312,8 @@ The Koch-v1-1 supports 2 wrist camera options:
 
 #### Kits
 
-- Robotic arm inspired by Kochv-1-1: [WOWROBO Twinarm](https://shop.wowrobo.com/products/wowrobo-twinarm-robotic-arm-set-inspired-by-koch-v1-1)
+- [WOWROBO Twinarm](https://shop.wowrobo.com/products/wowrobo-twinarm-robotic-arm-set-inspired-by-koch-v1-1): Robotic arm inspired by Kochv-1-1.
+- [robotis.us](https://robotis.us/project-bundles/)
 
 ---
 
