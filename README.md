@@ -187,6 +187,18 @@ Mobile version of the SO-ARM100.
 
 ## Mobile Bi-manual Arms
 
+### [liyiteng/AlohaMini](https://github.com/liyiteng/AlohaMini)
+
+Mobile version of the SO-ARM100 with two arms on a motorized vertical lift.
+
+<img src="media/AlohaMini.png" width="500">
+
+|              Price        | US     |
+|---------------------------|--------|
+| Total                     | ~ $600 |
+
+---
+
 ### [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot)
 
 Practical low-cost **dual-arm mobile home robot**, built on top of the LeKiwi base and SO101 arms.
