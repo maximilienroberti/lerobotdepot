@@ -287,6 +287,22 @@ Parallel Gripper with camera holder compatible with SO-ARM.
 
 ---
 
+### [SO-ARM Compliant Gripper](https://github.com/TheRobotStudio/SO-ARM100/blob/main/Optional/Compliant_Gripper/README.md)
+
+Compliant gripper printed out of a flexible material (TPU) compatible with SO-ARM.
+
+<img src="media/compliant_gripper_1.png" width="500">
+
+---
+
+### [XLeRobot Compliant Gripper](https://github.com/Vector-Wangel/XLeRobot/tree/main/hardware)
+
+Printed with TPU 95A for the finger and PLA for the base. Better structure and better grasp (both precision and power). No need to print support for the TPU finger. Requires 2 additional M3 screws, optional 3M gripper tape for higher friction.
+
+<img src="media/compliant_gripper_2.png" width="500">
+
+---
+
 ## Track axis
 
 ### [avenhaus/SO-ARM100-Track-Axis](https://github.com/avenhaus/SO-ARM100-Track-Axis)
