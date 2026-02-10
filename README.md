@@ -279,6 +279,13 @@ Precise gripper compatible with SO-ARM.
 <img src="media/so-100_chojins_gripper.png" width="500">
 
 ---
+### [ggao50/SO101-Parallel-Gripper](https://github.com/ggao50/SO101-Parallel-Gripper)
+
+Parallel Gripper with camera holder compatible with SO-ARM.
+
+<img src="media/parallel_gripper_1.png" width="500">
+
+---
 
 ## Track axis
 
