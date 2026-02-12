@@ -279,6 +279,15 @@ Precise gripper compatible with SO-ARM.
 <img src="media/so-100_chojins_gripper.png" width="500">
 
 ---
+
+### [jackvial/assembler0](https://github.com/jackvial/assembler0/tree/main/packages/assembler0-hardware)
+
+A screwdriver attachment and camera mount for the SO-ARM.
+
+<img src="media/so-arm_screwdriver.png" width="500">
+
+---
+
 ### [ggao50/SO101-Parallel-Gripper](https://github.com/ggao50/SO101-Parallel-Gripper)
 
 Parallel Gripper with camera holder compatible with SO-ARM.
