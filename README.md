@@ -387,7 +387,7 @@ Converted version of LeKiwi to use ROBOTIS components by using the Koch v1.1 arm
 
 ### [jackvial/koch_robotic_arm_screwdriver](https://github.com/jackvial/koch_robotic_arm_screwdriver)
 
-A **screwdriver attachment** and **camera mount** for the Koch robotic arm.
+A **screwdriver attachment** (mounted on Dynamixel XL330-M288-T) and **camera mount** for the Koch robotic arm.
 
 <img src="media/koch_screwdriver_camera_mount.png" width="500">
 
