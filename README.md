@@ -132,6 +132,8 @@ For wrist cameras, haptic sensors, and other modules, see [SO-ARM100 Accessories
 
 This is a **7 DOF arm**. While it is not officially supported by the LeRobot library, since it uses only STS3215 servo motors, it should be easy to set up with LeRobot.
 
+<img src="media/el_robot.png" width="500">
+
 #### Price
 
 |    Price     | US    |
