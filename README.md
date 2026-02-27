@@ -311,6 +311,14 @@ Parallel Gripper with camera holder compatible with SO-ARM.
 
 ---
 
+### [norma-core/pgripper](https://github.com/norma-core/norma-core/tree/main/hardware/pgripper)
+
+Made by the same team behind ElRobot, this parallel gripper with a camera holder is compatible with ElRobot and should also be compatible with other Feedtech SO-ARM models.
+
+<img src="media/norma_core_pgripper.png" width="500">
+
+---
+
 ### [SO-ARM Compliant Gripper](https://github.com/TheRobotStudio/SO-ARM100/blob/main/Optional/Compliant_Gripper/README.md)
 
 Compliant gripper printed out of a flexible material (TPU) compatible with SO-ARM.
