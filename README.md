@@ -128,6 +128,19 @@ For wrist cameras, haptic sensors, and other modules, see [SO-ARM100 Accessories
 
 ---
 
+### [norma-core/ElRobot](https://github.com/norma-core/norma-core/tree/main/hardware/elrobot)
+
+This is a **7 DOF arm**. While it is not officially supported by the LeRobot library, since it uses only STS3215 servo motors, it should be easy to set up with LeRobot.
+
+#### Price
+
+|    Price     | US    |
+|--------------|-------|
+| Follower arm | ± $220|
+| Leader arm   | ± $220|
+
+---
+
 ### SAM arm
 
 This is a **6 DOF arm**, developed by the community around the [SimpleAutomation repository](https://github.com/SimpleAutomationOrg/SimpleAutomation). It is a refined version of the SO-ARM100, offering enhanced movement precision and a gripper better optimized for handling small objects.
