@@ -387,7 +387,7 @@ The Koch-v1-1 supports 2 wrist camera options:
 
 ### [robotis/omx](https://huggingface.co/docs/lerobot/main/en/omx)
 
-The OMX is a 5-DOF robotic arm. All motor parameters are preconfigured at the factory—no hardware or software setup is required. Every DYNAMIXEL actuator is factory-calibrated, so users never need to perform calibration themselves. The base motor uses an extended-position design, providing full 360° rotation.
+The OMX is a 5-DOF robotic arm. All motor parameters are preconfigured at the factory, no hardware or software setup is required. Every DYNAMIXEL actuator is factory-calibrated, so users never need to perform calibration themselves. The base motor uses an extended-position design, providing full 360° rotation.
 
 <img src="media/omx.png" width="500">
 
