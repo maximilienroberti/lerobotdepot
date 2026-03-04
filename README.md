@@ -13,6 +13,7 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
   - [Bipedal Robots](#bipedal-robots)
   - [Grippers & Accessories](#grippers--accessories)
   - [Track Axis](#track-axis)
+  - [Camera Arms](#camera-arms)
 - [Dynamixel Family](#dynamixel-family)
   - [Robot Arms](#robot-arms-dynamixel)
   - [Bi-manual Arms](#bi-manual-arms-dynamixel)
@@ -342,6 +343,19 @@ Printed with TPU 95A for the finger and PLA for the base. Better structure and b
 It provides an additional axis to the SO-ARM100 robot arm.
 
 <img src="media/track_axis.png" width="500">
+
+---
+
+## Camera arms
+
+### [open-thought/cambot](https://github.com/open-thought/cambot)
+
+6-DOF camera arm for stereo vision, compatible with a ZED Mini stereo camera. Includes a VR teleop system using WebXR for real-time head tracking from any compatible VR headset (tested with Meta Quest 3).
+
+<img src="media/cambot.png" width="500">
+
+#### Price:
+~€110 (without camera)
 
 ---
 # Dynamixel Family
