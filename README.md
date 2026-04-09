@@ -336,6 +336,18 @@ Printed with TPU 95A for the finger and PLA for the base. Better structure and b
 
 ---
 
+### [roboninecom/SO-ARM100-101-Parallel-Gripper](https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper)
+
+Parallel gripper with camera holder compatible with SO-ARM100/SO-ARM101. 150N gripping force, 76mm stroke, 0.1mm repeatability. Supports RealSense, Orbbec, and USB cameras. [Video demo](https://youtube.com/shorts/eL2W2aHTV8M).
+
+<img src="media/so-arm-parallel-gripper-robonine.png" width="500">
+
+#### Price:
+
+~$70
+
+---
+
 ## Track axis
 
 ### [avenhaus/SO-ARM100-Track-Axis](https://github.com/avenhaus/SO-ARM100-Track-Axis)
