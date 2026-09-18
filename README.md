@@ -92,6 +92,7 @@ You can find kits for the SO100 arms here:
 - [WOWROBO](https://shop.wowrobo.com/collections/all): Also include Koch V1.1 and XLeRobot.
 - [Phospho](https://robots.phospho.ai): Also include Open Duck Mini.
 - [Autodiscovery](https://autodiscovery.eu/en/products/so-101-kit)
+- [ArmDojo](https://armdojo.com/collections/embodied-ai-robot-arms): Also include LeKiwi. Ships from Singapore; also sells finished 3D-printed part sets for the SO-101 and the LeKiwi base (supports removed, M3 heat-set inserts fitted) for builders who have the servos but no printer.
 
 Both **assembled** and **non-assembled** kits are available, depending on the supplier.
 
