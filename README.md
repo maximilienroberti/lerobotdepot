@@ -353,9 +353,15 @@ Parallel gripper with camera holder compatible with SO-ARM100/SO-ARM101. 150N gr
 
 LeFlexiTac adds FlexiTac tactile sensing to the SO-ARM10X platform. It includes a tactile gripper and extends LeRobot with tactile observations for data collection, dataset handling, and policy training and inference for contact-rich manipulation.
 
+LeFlexiTac reports significant gains on some contact-rich tasks: in-bag pen retrieval improved from 7/30 successful trials with vision-only ACT to 23/30 with tactile input, while peg-alignment and tube-insertion tasks also showed consistent improvements across the tested policy families.
+
 <img src="media/leflexitac.jpg" width="500">
 
 See the [LeFlexiTac documentation](https://tna001-ai.github.io/LeFlexiTac/docs.html) for the hardware setup and reproduction instructions. The [project website](https://tna001-ai.github.io/LeFlexiTac/index.html) includes demonstrations and results.
+
+#### Hardware / BOM
+
+The documented setup consists of SO-ARM10X leader and follower arms, a FlexiTac tactile sensor, custom 3D-printed `Moving Jaw` and `Wrist Roll` parts, a USB connection for the sensor, and a top camera for data collection. The project does not currently publish a complete priced bill of materials; see the [hardware guide](https://tna001-ai.github.io/LeFlexiTac/docs.html) for fabrication, mounting, calibration, and wiring details.
 
 _Image source: [LeFlexiTac project](https://tna001-ai.github.io/LeFlexiTac/assets/media/hero/leflexitac-cover.jpg)._
 
@@ -548,4 +554,3 @@ Hardware that attaches to the back of your hand and fingertips that tracks 16 de
 # Contributing
 
 Interested in contributing? Please take a moment to review our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
-
