@@ -359,9 +359,9 @@ LeFlexiTac reports significant gains on some contact-rich tasks: in-bag pen retr
 
 See the [LeFlexiTac documentation](https://tna001-ai.github.io/LeFlexiTac/docs.html) for the hardware setup and reproduction instructions. The [project website](https://tna001-ai.github.io/LeFlexiTac/index.html) includes demonstrations and results.
 
-#### Hardware / BOM
+#### Price:
 
-The documented setup consists of SO-ARM10X leader and follower arms, a FlexiTac tactile sensor, custom 3D-printed `Moving Jaw` and `Wrist Roll` parts, a USB connection for the sensor, and a top camera for data collection. The project does not currently publish a complete priced bill of materials; see the [hardware guide](https://tna001-ai.github.io/LeFlexiTac/docs.html) for fabrication, mounting, calibration, and wiring details.
+~$44 for the tactile hardware add-on ([cost breakdown](https://docs.google.com/document/d/1bvz6AL7BUkhj4Dj7n9DFXTjnGIX4-ziN8-smiCKpVZU/edit?tab=t.0#heading=h.kk7d14qme9db)); the SO-ARM10X base setup is not included.
 
 _Image source: [LeFlexiTac project](https://tna001-ai.github.io/LeFlexiTac/assets/media/hero/leflexitac-cover.jpg)._
 
