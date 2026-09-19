@@ -349,6 +349,18 @@ Parallel gripper with camera holder compatible with SO-ARM100/SO-ARM101. 150N gr
 
 ---
 
+### [TNA001-AI/lerobot_tactile](https://github.com/TNA001-AI/lerobot_tactile)
+
+LeFlexiTac adds FlexiTac tactile sensing to the SO-ARM10X platform. It includes a tactile gripper and extends LeRobot with tactile observations for data collection, dataset handling, and policy training and inference for contact-rich manipulation.
+
+<img src="media/leflexitac.jpg" width="500">
+
+See the [LeFlexiTac documentation](https://tna001-ai.github.io/LeFlexiTac/docs.html) for the hardware setup and reproduction instructions. The [project website](https://tna001-ai.github.io/LeFlexiTac/index.html) includes demonstrations and results.
+
+_Image source: [LeFlexiTac project](https://tna001-ai.github.io/LeFlexiTac/assets/media/hero/leflexitac-cover.jpg)._
+
+---
+
 ## Track axis
 
 ### [avenhaus/SO-ARM100-Track-Axis](https://github.com/avenhaus/SO-ARM100-Track-Axis)
