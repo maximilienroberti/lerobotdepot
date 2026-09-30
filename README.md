@@ -271,6 +271,16 @@ A project for a full body robot—currently featuring the torso and arms.
 
 ## Grippers & Accessories
 
+### [XiujinLiu/Grip4SO101](https://github.com/XiujinLiu/Grip4SO101)
+
+Modular, 3D-printable gripper for the SO-101 with interchangeable jaws. It replaces the stock end effector while reusing its motor; the repository includes STL and STEP files, assembly instructions, and a parts list.
+
+<img src="media/grip4so101.jpg" width="500">
+
+_Image source: [Grip4SO101 project](https://github.com/XiujinLiu/Grip4SO101/blob/main/img/gripper_line.jpg) (MIT license)._
+
+---
+
 ### [pollen-robotics/PincOpen](https://github.com/pollen-robotics/PincOpen)
 
 Parallel-finger gripper compatible with SO-ARM.
