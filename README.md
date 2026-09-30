@@ -131,6 +131,16 @@ For wrist cameras, haptic sensors, and other modules, see [SO-ARM100 Accessories
 
 ---
 
+### [rabhishek100/SO-101 Extended & 6-DoF Variants](https://github.com/rabhishek100/so101-6dof-and-extended-versions)
+
+Two printable SO-101 variants: longer upper-arm and forearm links add 50 mm each without changing the stock electronics or LeRobot configuration; a separate elbow-roll upgrade adds a sixth joint with one more Feetech servo and matching LeRobot leader/follower plugins.
+
+<img src="media/so101-extended.jpg" width="500">
+
+_Image: extended-link variant, from the [project render](https://github.com/rabhishek100/so101-6dof-and-extended-versions/blob/main/stl_files/so101_extended/S101_extended_assembled_mod.png) (Apache-2.0 license)._
+
+---
+
 ### [norma-core/ElRobot](https://github.com/norma-core/norma-core/tree/main/hardware/elrobot)
 
 This is a **7 DOF arm**. While it is not officially supported by the LeRobot library, since it uses only STS3215 servo motors, it should be easy to set up with LeRobot.
