@@ -19,6 +19,7 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
   - [Bi-manual Arms](#bi-manual-arms-dynamixel)
   - [Mobile Arms](#mobile-arms-dynamixel)
   - [Accessories](#accessories)
+- [Damiao CAN Bus Family](#damiao-can-bus-family)
 - [Common Accessories & Add-ons](#common-accessories--add-ons)
   - [Task Kits](#task-kits)
   - [Other Accessories](#other)
@@ -494,6 +495,22 @@ Converted version of LeKiwi to use ROBOTIS components by using the Koch v1.1 arm
 A **screwdriver attachment** (mounted on Dynamixel XL330-M288-T) and **camera mount** for the Koch robotic arm.
 
 <img src="media/koch_screwdriver_camera_mount.png" width="500">
+
+---
+
+# Damiao CAN Bus Family
+
+### [robertorobotics/Nextis-AIRA-3D](https://github.com/robertorobotics/Nextis-AIRA-3D)
+
+AIRA is a 3D-printable robotic arm with six arm joints and a gripper. Its follower uses Damiao CAN bus motors, while the teleoperation leader uses Dynamixel XL330 servos. The LeRobot plugin supports teleoperation and demonstration recording; the authors mark it as early access. See the [assembly guide](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/hardware/ASSEMBLY.md) and [bill of materials](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/hardware/BOM.md).
+
+<img src="media/nextis-aira-3d.jpg" width="500">
+
+#### Price:
+
+~$1,650 for follower arm parts, or ~$2,200–$2,750 for the full leader/follower kit including shipping and import duties (project estimates from early 2026).
+
+_Image: cropped frame from the [AIRA demo video](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/media/aira_demo.mp4), shared by the [Apache 2.0 licensed project](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/LICENSE)._
 
 ---
 
