@@ -384,6 +384,10 @@ LeSlider adds a motorized linear axis to the SO-101 arm using a 20 × 20 mm V-sl
 
 <img src="media/leslider.jpg" width="500">
 
+#### Price:
+
+Estimated ~$40 for the main slider hardware ([STS3215 servo](https://www.waveshare.com/product/st3215-servo.htm), [500 mm rail](https://www.crcibernetica.com/2020-v-slot-aluminum-extrusion-500mm/), and [wheeled carriage](https://www.zyltech.com/pre-assembled-gantry-carriage-kit-for-2020-v-groove-extrusion/)); fasteners and 3D-printed parts cost extra.
+
 _Image: cropped frame from the [project demo](https://github.com/pham-tuan-binh/leslider/blob/main/demo.gif), licensed under [Apache 2.0](https://github.com/pham-tuan-binh/leslider/blob/main/LICENSE)._
 
 ---
