@@ -377,6 +377,16 @@ It provides an additional axis to the SO-ARM100 robot arm.
 
 ---
 
+### [pham-tuan-binh/leslider](https://github.com/pham-tuan-binh/leslider)
+
+LeSlider adds a motorized linear axis to the SO-101 arm using a 20 × 20 mm V-slot aluminum rail, a wheeled carriage, and one additional STS3215 servo. The project provides 3D-printable mounts and LeRobot plugins for teleoperation, dataset recording, and velocity or position control of the slider. See its [bill of materials and build guide](https://github.com/pham-tuan-binh/leslider#1-bill-of-materials).
+
+<img src="media/leslider.jpg" width="500">
+
+_Image: cropped frame from the [project demo](https://github.com/pham-tuan-binh/leslider/blob/main/demo.gif), licensed under [Apache 2.0](https://github.com/pham-tuan-binh/leslider/blob/main/LICENSE)._
+
+---
+
 ## Camera arms
 
 ### [open-thought/cambot](https://github.com/open-thought/cambot)
