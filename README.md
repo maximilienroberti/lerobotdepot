@@ -133,11 +133,11 @@ For wrist cameras, haptic sensors, and other modules, see [SO-ARM100 Accessories
 
 ### [rabhishek100/SO-101 Extended & 6-DoF Variants](https://github.com/rabhishek100/so101-6dof-and-extended-versions)
 
-Two printable SO-101 variants: longer upper-arm and forearm links add 50 mm each without changing the stock electronics or LeRobot configuration; a separate elbow-roll upgrade adds a sixth joint with one more Feetech servo and matching LeRobot leader/follower plugins.
+Two printable SO-101 variants: the extended version lengthens the upper arm and forearm by **50 mm each** (100 mm more combined link length), without changing the stock electronics or LeRobot configuration; a separate elbow-roll upgrade adds a sixth joint with one more Feetech servo and matching LeRobot leader/follower plugins. The [extended design reuses the original motors](https://github.com/rabhishek100/so101-6dof-and-extended-versions#extended-so-101-no-firmware-changes), so **12 V Feetech servos are not required**; the [standard 7.4 V SO-101 motors](https://github.com/TheRobotStudio/SO-ARM100#sourcing-parts) are the baseline. A longer arm increases torque demand under load, however, and the project does not publish a tested payload limit for the extended version.
 
 <img src="media/so101-extended.jpg" width="500">
 
-_Image: extended-link variant, from the [project render](https://github.com/rabhishek100/so101-6dof-and-extended-versions/blob/main/stl_files/so101_extended/S101_extended_assembled_mod.png) (Apache-2.0 license)._
+_Image: [extended-link variant](https://github.com/rabhishek100/so101-6dof-and-extended-versions/blob/main/stl_files/so101_extended/S101_extended_assembled_mod.png) on the left, [6-DoF elbow-roll variant](https://github.com/rabhishek100/so101-6dof-and-extended-versions/blob/main/stl_files/so101_6dof/SO101_dof6_assembled_mod.png) on the right (project renders, Apache-2.0 license)._
 
 ---
 
