@@ -746,13 +746,13 @@ Alternative to silicone rubber for increasing friction. You can add screws to av
 
 ### [Matheshwaranpitchai/open-source-leader-arm](https://github.com/Matheshwaranpitchai/open-source-leader-arm)
 
-A 3D-printed, six-joint leader arm that uses six AS5600 magnetic encoders instead of servos. Its ESP32 reads the encoders through an I²C multiplexer. The included LeRobot teleoperator plugin can drive an SO-101 follower or the project's MuJoCo SO-ARM100 simulation and record datasets. The author reports testing with the simulated follower; physical SO-101 support is documented in the setup instructions.
+A 3D-printed, six-joint leader arm with AS5600 encoders, an ESP32, and a LeRobot teleoperator plugin. The author tested it with a simulated SO-ARM100 follower; the instructions also cover a physical SO-101 follower.
 
 <img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="500">
 
-The [project bill of materials](https://github.com/Matheshwaranpitchai/open-source-leader-arm#bill-of-materials) totals **₹2,619 (about $27.45 USD)** for electronics and other listed hardware: six encoder-and-magnet pairs, six 608 bearings, an I²C multiplexer, ESP32, wire, screws, perfboard, and a rubber band. This is a parts subtotal, not a complete build price; 3D-printed parts, shipping, and taxes are excluded. The repository provides CAD files, print settings, wiring, firmware, and assembly steps.
+The [project BOM](https://github.com/Matheshwaranpitchai/open-source-leader-arm#bill-of-materials) lists **₹2,619 (about $27.45 USD)** in hardware, excluding 3D-printed parts, shipping, and taxes. CAD files, firmware, and assembly instructions are included.
 
-_Image: frame from the [project author's demo video](https://github.com/user-attachments/assets/977a0b56-c7d2-4a90-b86a-445dd3963871), embedded in the [source README](https://github.com/Matheshwaranpitchai/open-source-leader-arm)._
+_Image: frame from the [project demo video](https://github.com/user-attachments/assets/977a0b56-c7d2-4a90-b86a-445dd3963871)._
 
 ---
 
