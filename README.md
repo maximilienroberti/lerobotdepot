@@ -41,6 +41,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-koch-v1-1"><img src="media/koch-v1-1.png" alt="jess-moss/koch-v1-1" width="150"></a> | [jess-moss/koch-v1-1](#catalog-koch-v1-1) | Robot arm | Dynamixel | $199, follower |
 | <a href="#catalog-omx"><img src="media/omx.png" alt="robotis/omx" width="150"></a> | [robotis/omx](#catalog-omx) | Robot arm | Dynamixel | $250, leader/follower kits |
 | <a href="#catalog-nextis-aira-3d"><img src="media/nextis-aira-3d.jpg" alt="robertorobotics/Nextis-AIRA-3D" width="150"></a> | [robertorobotics/Nextis-AIRA-3D](#catalog-nextis-aira-3d) | Robot arm | Damiao + Dynamixel | ≈$1,650, follower parts |
+| <a href="#catalog-openarm"><img src="media/openarm-2.0.jpg" alt="OpenArm 2.0 bimanual robot" width="150"></a> | [Enactic OpenArm 2.0](#catalog-openarm) | Dual-arm | Damiao | ≈$6,500, bimanual system |
 | <a href="#catalog-ab-so-bot"><img src="media/ab-so-bot.png" alt="Mr-C4T/AB-SO-BOT" width="150"></a> | [Mr-C4T/AB-SO-BOT](#catalog-ab-so-bot) | Dual-arm | Feetech | Not listed |
 | <a href="#catalog-dual-scorpion"><img src="media/dual-scorpion.jpg" alt="Dual Scorpion" width="150"></a> | [Dual Scorpion](#catalog-dual-scorpion) | Dual-arm | Feetech | ≈$637, leader + follower (cameras excluded) |
 | <a href="#catalog-aloha-2"><img src="media/aloha-2.png" alt="ALOHA 2" width="150"></a> | [ALOHA 2](#catalog-aloha-2) | Dual-arm | Dynamixel | ≈$27,000, listed estimate |
@@ -321,6 +322,33 @@ _Image: cropped frame from the [AIRA demo video](https://github.com/robertorobot
 <a id="bi-manual-arms"></a>
 
 ## Dual-arm robots
+
+<a id="catalog-openarm"></a>
+
+### [Enactic OpenArm 2.0](https://github.com/enactic/openarm)
+
+OpenArm is an open-source bimanual robot with two 7-DOF arms, backdrivable Damiao motors, CAN-FD control, and parallel grippers. [LeRobot supports OpenArm follower and leader arms](https://github.com/huggingface/lerobot/blob/main/docs/source/openarm.mdx), including bimanual teleoperation. See the [hardware documentation](https://docs.openarm.dev/hardware/openarm-2.0/general) for the CAD files, bill of materials, and assembly requirements.
+
+<img src="media/openarm-2.0.jpg" alt="OpenArm 2.0 bimanual robot" width="500">
+
+#### Estimated price
+
+**≈$6,500 USD for a complete bimanual system**, as estimated by the [OpenArm project](https://github.com/enactic/openarm) and listed as the starting price for [WowRobo's OpenArm 2](https://shop.wowrobo.com/collections/openarm). This is for two arms, not one arm or the separate OpenArm Cell. Configurations, cameras, shipping, and taxes can change the final price.
+
+#### Vendors
+
+| Vendor | OpenArm 2.0 price / scope | Shipping |
+| --- | --- | --- |
+| [WowRobo](https://shop.wowrobo.com/collections/openarm) | From $6,500, V2 bimanual system | Worldwide |
+| [RT Corporation](https://rt-net.jp/service/openarm/) | By quotation, assembled and tested V2 | Primarily Japan |
+| [Cereboto](https://cereboto.com/product/openarm-2-robotic-arm-kit/) | $6,280, V2 without camera; $7,080 with camera | Worldwide |
+| [Anvil Robotics](https://shop.anvil.bot/collections/all) | $5,600, V2 full devkit | Worldwide |
+
+The [project-maintained manufacturer list](https://docs.openarm.dev/purchase/) includes further sellers and distinguishes evaluated partners from other manufacturers. Prices above are indicative vendor listings; check configuration and availability before ordering.
+
+_Image: [OpenArm 2.0 project graphic](https://github.com/enactic/openarm/blob/main/website/static/img/hardware/openarm-2.0/general/openarm-2.0.png), resized and padded to the catalog format; source repository [Apache 2.0 license](https://github.com/enactic/openarm/blob/main/LICENSE)._
+
+---
 
 <a id="catalog-ab-so-bot"></a>
 
