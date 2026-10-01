@@ -28,47 +28,49 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 
 ### Robot platforms
 
-| Preview | Project | Type · motors | Listed price / scope |
-| --- | --- | --- | --- |
-| <a href="#catalog-so-arm100"><img src="media/so-arm100.jpg" alt="SO-100 &amp; SO-101 Arms" width="150"></a> | [SO-100 & SO-101 Arms](#catalog-so-arm100) | Robot arm<br>Feetech | $122, one arm |
-| <a href="#catalog-moss-robot-arm"><img src="media/moss-robot-arm.png" alt="jess-moss/moss-robot-arms" width="150"></a> | [jess-moss/moss-robot-arms](#catalog-moss-robot-arm) | Robot arm<br>Feetech | $159, one arm |
-| <a href="#catalog-so-arm107"><img src="media/so-arm107.jpg" alt="ajinkyagorad/SO-ARM107" width="150"></a> | [ajinkyagorad/SO-ARM107](#catalog-so-arm107) | Robot arm<br>Feetech | Not listed (SO-100 + servo) |
-| <a href="#catalog-so101-6dof"><img src="media/so101-6dof.jpg" alt="SO-101 6-DoF variant" width="150"></a> | [SO-101 6-DoF variant](#catalog-so101-6dof) | Robot arm variant<br>Feetech | Not listed |
-| <a href="#catalog-so101-extended"><img src="media/so101-extended.jpg" alt="SO-101 extended arm" width="150"></a> | [SO-101 extended arm](#catalog-so101-extended) | Robot arm variant<br>Feetech | Not listed |
-| <a href="#catalog-el-robot"><img src="media/el_robot.png" alt="norma-core/ElRobot" width="150"></a> | [norma-core/ElRobot](#catalog-el-robot) | Robot arm<br>Feetech | ±$220, follower |
-| <a href="#catalog-sam-arm"><img src="media/SAM_arm.png" alt="SAM arm" width="150"></a> | [SAM arm](#catalog-sam-arm) | Robot arm<br>Feetech | ±$450, pair |
-| <a href="#catalog-pingti-arm"><img src="media/PingTi-Arm.png" alt="nomorewzx/PingTi-Arm" width="150"></a> | [nomorewzx/PingTi-Arm](#catalog-pingti-arm) | Robot arm<br>Feetech | ±$261, follower |
-| <a href="#catalog-koch-v1-1"><img src="media/koch-v1-1.png" alt="jess-moss/koch-v1-1" width="150"></a> | [jess-moss/koch-v1-1](#catalog-koch-v1-1) | Robot arm<br>Dynamixel | $199, follower |
-| <a href="#catalog-omx"><img src="media/omx.png" alt="robotis/omx" width="150"></a> | [robotis/omx](#catalog-omx) | Robot arm<br>Dynamixel | $250, leader/follower kits |
-| <a href="#catalog-nextis-aira-3d"><img src="media/nextis-aira-3d.jpg" alt="robertorobotics/Nextis-AIRA-3D" width="150"></a> | [robertorobotics/Nextis-AIRA-3D](#catalog-nextis-aira-3d) | Robot arm<br>Damiao + Dynamixel | ≈$1,650, follower parts |
-| <a href="#catalog-ab-so-bot"><img src="media/ab-so-bot.png" alt="Mr-C4T/AB-SO-BOT" width="150"></a> | [Mr-C4T/AB-SO-BOT](#catalog-ab-so-bot) | Dual-arm<br>Feetech | Not listed |
-| <a href="#catalog-dual-scorpion"><img src="media/dual-scorpion.jpg" alt="Dual Scorpion" width="150"></a> | [Dual Scorpion](#catalog-dual-scorpion) | Dual-arm<br>Feetech | ≈$637, leader + follower (cameras excluded) |
-| <a href="#catalog-aloha-2"><img src="media/aloha-2.png" alt="ALOHA 2" width="150"></a> | [ALOHA 2](#catalog-aloha-2) | Dual-arm<br>Dynamixel | ≈$27,000, listed estimate |
-| <a href="#catalog-lekiwi"><img src="media/LeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Feetech)](#catalog-lekiwi) | Mobile arm<br>Feetech | $488.21, 12V version |
-| <a href="#catalog-dynamixellekiwi"><img src="media/DynamixelLeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Dynamixel)](#catalog-dynamixellekiwi) | Mobile arm<br>Dynamixel | Not listed |
-| <a href="#catalog-alohamini"><img src="media/AlohaMini.png" alt="liyiteng/AlohaMini" width="150"></a> | [liyiteng/AlohaMini](#catalog-alohamini) | Mobile dual-arm<br>Feetech | ≈$600, total |
-| <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm<br>Feetech | ≈$660, basic build |
-| <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm<br>Feetech | ≈$300, total |
-| <a href="#catalog-open-duck-mini"><img src="media/open_duck_mini.png" alt="apirrone/Open_Duck_Mini" width="150"></a> | [apirrone/Open_Duck_Mini](#catalog-open-duck-mini) | Biped<br>Feetech family | ≈€410 |
-| <a href="#catalog-hopejr"><img src="media/hopejr.png" alt="TheRobotStudio/HOPEJr" width="150"></a> | [TheRobotStudio/HOPEJr](#catalog-hopejr) | Humanoid<br>Feetech family | Not listed |
+| Preview | Project | Type | Motors | Listed price / scope |
+| --- | --- | --- | --- | --- |
+| <a href="#catalog-so-arm100"><img src="media/so-arm100.jpg" alt="SO-100 &amp; SO-101 Arms" width="150"></a> | [SO-100 & SO-101 Arms](#catalog-so-arm100) | Robot arm | Feetech | $122, one arm |
+| <a href="#catalog-moss-robot-arm"><img src="media/moss-robot-arm.png" alt="jess-moss/moss-robot-arms" width="150"></a> | [jess-moss/moss-robot-arms](#catalog-moss-robot-arm) | Robot arm | Feetech | $159, one arm |
+| <a href="#catalog-so-arm107"><img src="media/so-arm107.jpg" alt="ajinkyagorad/SO-ARM107" width="150"></a> | [ajinkyagorad/SO-ARM107](#catalog-so-arm107) | Robot arm | Feetech | Not listed (SO-100 + servo) |
+| <a href="#catalog-so101-6dof"><img src="media/so101-6dof.jpg" alt="SO-101 6-DoF variant" width="150"></a> | [SO-101 6-DoF variant](#catalog-so101-6dof) | Robot arm variant | Feetech | Not listed |
+| <a href="#catalog-so101-extended"><img src="media/so101-extended.jpg" alt="SO-101 extended arm" width="150"></a> | [SO-101 extended arm](#catalog-so101-extended) | Robot arm variant | Feetech | Not listed |
+| <a href="#catalog-el-robot"><img src="media/el_robot.png" alt="norma-core/ElRobot" width="150"></a> | [norma-core/ElRobot](#catalog-el-robot) | Robot arm | Feetech | ±$220, follower |
+| <a href="#catalog-sam-arm"><img src="media/SAM_arm.png" alt="SAM arm" width="150"></a> | [SAM arm](#catalog-sam-arm) | Robot arm | Feetech | ±$450, pair |
+| <a href="#catalog-pingti-arm"><img src="media/PingTi-Arm.png" alt="nomorewzx/PingTi-Arm" width="150"></a> | [nomorewzx/PingTi-Arm](#catalog-pingti-arm) | Robot arm | Feetech | ±$261, follower |
+| <a href="#catalog-koch-v1-1"><img src="media/koch-v1-1.png" alt="jess-moss/koch-v1-1" width="150"></a> | [jess-moss/koch-v1-1](#catalog-koch-v1-1) | Robot arm | Dynamixel | $199, follower |
+| <a href="#catalog-omx"><img src="media/omx.png" alt="robotis/omx" width="150"></a> | [robotis/omx](#catalog-omx) | Robot arm | Dynamixel | $250, leader/follower kits |
+| <a href="#catalog-nextis-aira-3d"><img src="media/nextis-aira-3d.jpg" alt="robertorobotics/Nextis-AIRA-3D" width="150"></a> | [robertorobotics/Nextis-AIRA-3D](#catalog-nextis-aira-3d) | Robot arm | Damiao + Dynamixel | ≈$1,650, follower parts |
+| <a href="#catalog-ab-so-bot"><img src="media/ab-so-bot.png" alt="Mr-C4T/AB-SO-BOT" width="150"></a> | [Mr-C4T/AB-SO-BOT](#catalog-ab-so-bot) | Dual-arm | Feetech | Not listed |
+| <a href="#catalog-dual-scorpion"><img src="media/dual-scorpion.jpg" alt="Dual Scorpion" width="150"></a> | [Dual Scorpion](#catalog-dual-scorpion) | Dual-arm | Feetech | ≈$637, leader + follower (cameras excluded) |
+| <a href="#catalog-aloha-2"><img src="media/aloha-2.png" alt="ALOHA 2" width="150"></a> | [ALOHA 2](#catalog-aloha-2) | Dual-arm | Dynamixel | ≈$27,000, listed estimate |
+| <a href="#catalog-lekiwi"><img src="media/LeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Feetech)](#catalog-lekiwi) | Mobile arm | Feetech | $488.21, 12V version |
+| <a href="#catalog-dynamixellekiwi"><img src="media/DynamixelLeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Dynamixel)](#catalog-dynamixellekiwi) | Mobile arm | Dynamixel | Not listed |
+| <a href="#catalog-alohamini"><img src="media/AlohaMini.png" alt="liyiteng/AlohaMini" width="150"></a> | [liyiteng/AlohaMini](#catalog-alohamini) | Mobile dual-arm | Feetech | ≈$600, total |
+| <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm | Feetech | ≈$660, basic build |
+| <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm | Feetech | ≈$300, total |
+| <a href="#catalog-open-duck-mini"><img src="media/open_duck_mini.png" alt="apirrone/Open_Duck_Mini" width="150"></a> | [apirrone/Open_Duck_Mini](#catalog-open-duck-mini) | Biped | Feetech family | ≈€410 |
+| <a href="#catalog-hopejr"><img src="media/hopejr.png" alt="TheRobotStudio/HOPEJr" width="150"></a> | [TheRobotStudio/HOPEJr](#catalog-hopejr) | Humanoid | Feetech family | Not listed |
 
 ### Add-ons and tools
+
+**SO-10X** refers to the SO-100/SO-101 family. Where a project names only one model, the table keeps that specific model; the family label does not guarantee identical mounting on both.
 
 | Preview | Project | What it adds | Fits / use |
 | --- | --- | --- | --- |
 | <a href="#catalog-grip4so101"><img src="media/grip4so101.jpg" alt="Grip4SO101" width="150"></a> | [Grip4SO101](#catalog-grip4so101) | Modular gripper | SO-101 |
-| <a href="#catalog-pincopen"><img src="media/PincOpen.png" alt="pollen-robotics/PincOpen" width="150"></a> | [pollen-robotics/PincOpen](#catalog-pincopen) | Gripper | SO-ARM |
-| <a href="#catalog-so-arm-symmetrical-gripper"><img src="media/so-arm_symmetrical_gripper.png" alt="SiegeLord/Symmetrical Gripper" width="150"></a> | [SiegeLord/Symmetrical Gripper](#catalog-so-arm-symmetrical-gripper) | Gripper | SO-ARM |
-| <a href="#catalog-so-100-chojins-gripper"><img src="media/so-100_chojins_gripper.png" alt="Chojins/LeRobot-S0-100-Models" width="150"></a> | [Chojins/LeRobot-S0-100-Models](#catalog-so-100-chojins-gripper) | Gripper | SO-ARM |
-| <a href="#catalog-parallel-gripper-1"><img src="media/parallel_gripper_1.png" alt="ggao50/SO101-Parallel-Gripper" width="150"></a> | [ggao50/SO101-Parallel-Gripper](#catalog-parallel-gripper-1) | Gripper + camera holder | SO-ARM |
-| <a href="#catalog-norma-core-pgripper"><img src="media/norma_core_pgripper.png" alt="norma-core/pgripper" width="150"></a> | [norma-core/pgripper](#catalog-norma-core-pgripper) | Gripper + camera holder | ElRobot; other SO-ARM models may fit |
-| <a href="#catalog-compliant-gripper-1"><img src="media/compliant_gripper_1.png" alt="SO-ARM Compliant Gripper" width="150"></a> | [SO-ARM Compliant Gripper](#catalog-compliant-gripper-1) | Flexible gripper | SO-ARM |
+| <a href="#catalog-pincopen"><img src="media/PincOpen.png" alt="pollen-robotics/PincOpen" width="150"></a> | [pollen-robotics/PincOpen](#catalog-pincopen) | Gripper | SO-100 |
+| <a href="#catalog-so-arm-symmetrical-gripper"><img src="media/so-arm_symmetrical_gripper.png" alt="SiegeLord/Symmetrical Gripper" width="150"></a> | [SiegeLord/Symmetrical Gripper](#catalog-so-arm-symmetrical-gripper) | Gripper | SO-10X family |
+| <a href="#catalog-so-100-chojins-gripper"><img src="media/so-100_chojins_gripper.png" alt="Chojins/LeRobot-S0-100-Models" width="150"></a> | [Chojins/LeRobot-S0-100-Models](#catalog-so-100-chojins-gripper) | Gripper | SO-100 |
+| <a href="#catalog-parallel-gripper-1"><img src="media/parallel_gripper_1.png" alt="ggao50/SO101-Parallel-Gripper" width="150"></a> | [ggao50/SO101-Parallel-Gripper](#catalog-parallel-gripper-1) | Gripper + camera holder | SO-101 |
+| <a href="#catalog-norma-core-pgripper"><img src="media/norma_core_pgripper.png" alt="norma-core/pgripper" width="150"></a> | [norma-core/pgripper](#catalog-norma-core-pgripper) | Gripper + camera holder | ElRobot; SO-10X may fit |
+| <a href="#catalog-compliant-gripper-1"><img src="media/compliant_gripper_1.png" alt="SO-ARM Compliant Gripper" width="150"></a> | [SO-ARM Compliant Gripper](#catalog-compliant-gripper-1) | Flexible gripper | SO-101 |
 | <a href="#catalog-compliant-gripper-2"><img src="media/compliant_gripper_2.png" alt="XLeRobot Compliant Gripper" width="150"></a> | [XLeRobot Compliant Gripper](#catalog-compliant-gripper-2) | Flexible gripper | XLeRobot |
-| <a href="#catalog-so-arm-parallel-gripper-robonine"><img src="media/so-arm-parallel-gripper-robonine.png" alt="roboninecom/SO-ARM100-101-Parallel-Gripper" width="150"></a> | [roboninecom/SO-ARM100-101-Parallel-Gripper](#catalog-so-arm-parallel-gripper-robonine) | Parallel gripper | SO-ARM100/101 |
-| <a href="#catalog-leflexitac"><img src="media/leflexitac.jpg" alt="TNA001-AI/lerobot_tactile" width="150"></a> | [TNA001-AI/lerobot_tactile](#catalog-leflexitac) | Tactile gripper | SO-ARM10X |
-| <a href="#catalog-track-axis"><img src="media/track_axis.png" alt="avenhaus/SO-ARM100-Track-Axis" width="150"></a> | [avenhaus/SO-ARM100-Track-Axis](#catalog-track-axis) | Linear axis | SO-ARM100 |
+| <a href="#catalog-so-arm-parallel-gripper-robonine"><img src="media/so-arm-parallel-gripper-robonine.png" alt="roboninecom/SO-ARM100-101-Parallel-Gripper" width="150"></a> | [roboninecom/SO-ARM100-101-Parallel-Gripper](#catalog-so-arm-parallel-gripper-robonine) | Parallel gripper | SO-10X |
+| <a href="#catalog-leflexitac"><img src="media/leflexitac.jpg" alt="TNA001-AI/lerobot_tactile" width="150"></a> | [TNA001-AI/lerobot_tactile](#catalog-leflexitac) | Tactile gripper | SO-10X |
+| <a href="#catalog-track-axis"><img src="media/track_axis.png" alt="avenhaus/SO-ARM100-Track-Axis" width="150"></a> | [avenhaus/SO-ARM100-Track-Axis](#catalog-track-axis) | Linear axis | SO-100 |
 | <a href="#catalog-leslider"><img src="media/leslider.jpg" alt="pham-tuan-binh/leslider" width="150"></a> | [pham-tuan-binh/leslider](#catalog-leslider) | Linear axis | SO-101 |
-| <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-ARM |
+| <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 |
 | <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm |
 | <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm | ZED Mini camera |
 | <a href="#catalog-finger-tracker"><img src="media/finger_tracker.png" alt="max-titov/finger-tracker" width="150"></a> | [max-titov/finger-tracker](#catalog-finger-tracker) | Hand tracking | HOPEJr hands |
