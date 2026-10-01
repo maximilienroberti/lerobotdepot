@@ -51,6 +51,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm | Feetech | ≈$660, basic build |
 | <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm | Feetech | ≈$300, total |
 | <a href="#catalog-open-duck-mini"><img src="media/open_duck_mini.png" alt="apirrone/Open_Duck_Mini" width="150"></a> | [apirrone/Open_Duck_Mini](#catalog-open-duck-mini) | Biped | Feetech family | ≈€410 |
+| <a href="#catalog-microduck"><img src="media/microduck.jpg" alt="Pollen Robotics Microduck" width="150"></a> | [Pollen Robotics Microduck](#catalog-microduck) | Biped; open-source software | 15 motors | $399, complete robot (introductory pre-order) |
 | <a href="#catalog-hopejr"><img src="media/hopejr.png" alt="TheRobotStudio/HOPEJr" width="150"></a> | [TheRobotStudio/HOPEJr](#catalog-hopejr) | Humanoid | Feetech family | Not listed |
 
 ### Add-ons and tools
@@ -492,6 +493,25 @@ Miniature version of the BDX Droid by Disney.
 #### Price
 
 ~€410
+
+---
+
+<a id="catalog-microduck"></a>
+
+### [Pollen Robotics Microduck](https://pollen-robotics.com/microduck/)
+
+The official Microduck is a 25 cm biped with 15 motors, a camera, LiDAR and a grasping beak. Its [software stack](https://github.com/pollen-robotics/microduck) is open source, but Pollen Robotics has **not released its mechanical or electronic design files** as open-source hardware.
+
+<img src="media/microduck.jpg" alt="Official Pollen Robotics Microducks playing with a ball" width="500">
+
+_Photo: Pollen Robotics, [Microduck press kit](https://pollen-robotics.com/microduck/press-kit/) ([original JPG](https://pollen-robotics.com/assets/microduck/press/photos/microduck-kickabout.jpg)); cropped for this catalog._
+
+**Price:** $399 introductory pre-order for the complete robot, before taxes and shipping ([Pollen Robotics press kit](https://pollen-robotics.com/microduck/press-kit/)).
+
+**DIY alternatives:**
+
+- [Microduck Replica](https://github.com/fanhao375/microduck-replica) offers a printable community build with [CAD files](https://github.com/fanhao375/microduck-replica-cad) for either Robotis XL330 or Feetech HD-1910 servos. The Feetech version needs its own printed parts and control adaptation; policies trained for the XL330 build cannot simply be reused.
+- [XGO-Duck hardware](https://github.com/LuwuDynamics/xgoduck_hardware) provides printable parts, electronics files and a bill of materials for a Feetech 1910 build with an Arduino UNO Q. Its [licensing notice](https://github.com/LuwuDynamics/xgoduck_hardware/blob/master/LICENSING.md) says project-wide reuse terms are still being finalized.
 
 ---
 
