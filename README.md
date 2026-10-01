@@ -57,28 +57,29 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 
 **SO-10X** refers to the SO-100/SO-101 family. Where a project names only one model, the table keeps that specific model; the family label does not guarantee identical mounting on both.
 
-| Preview | Project | What it adds | Fits / use |
-| --- | --- | --- | --- |
-| <a href="#catalog-grip4so101"><img src="media/grip4so101.jpg" alt="Grip4SO101" width="150"></a> | [Grip4SO101](#catalog-grip4so101) | Modular gripper | SO-101 |
-| <a href="#catalog-pincopen"><img src="media/PincOpen.png" alt="pollen-robotics/PincOpen" width="150"></a> | [pollen-robotics/PincOpen](#catalog-pincopen) | Gripper | SO-100 |
-| <a href="#catalog-so-arm-symmetrical-gripper"><img src="media/so-arm_symmetrical_gripper.png" alt="SiegeLord/Symmetrical Gripper" width="150"></a> | [SiegeLord/Symmetrical Gripper](#catalog-so-arm-symmetrical-gripper) | Gripper | SO-10X family |
-| <a href="#catalog-so-100-chojins-gripper"><img src="media/so-100_chojins_gripper.png" alt="Chojins/LeRobot-S0-100-Models" width="150"></a> | [Chojins/LeRobot-S0-100-Models](#catalog-so-100-chojins-gripper) | Gripper | SO-100 |
-| <a href="#catalog-parallel-gripper-1"><img src="media/parallel_gripper_1.png" alt="ggao50/SO101-Parallel-Gripper" width="150"></a> | [ggao50/SO101-Parallel-Gripper](#catalog-parallel-gripper-1) | Gripper + camera holder | SO-101 |
-| <a href="#catalog-norma-core-pgripper"><img src="media/norma_core_pgripper.png" alt="norma-core/pgripper" width="150"></a> | [norma-core/pgripper](#catalog-norma-core-pgripper) | Gripper + camera holder | ElRobot; SO-10X may fit |
-| <a href="#catalog-compliant-gripper-1"><img src="media/compliant_gripper_1.png" alt="SO-ARM Compliant Gripper" width="150"></a> | [SO-ARM Compliant Gripper](#catalog-compliant-gripper-1) | Flexible gripper | SO-101 |
-| <a href="#catalog-compliant-gripper-2"><img src="media/compliant_gripper_2.png" alt="XLeRobot Compliant Gripper" width="150"></a> | [XLeRobot Compliant Gripper](#catalog-compliant-gripper-2) | Flexible gripper | XLeRobot |
-| <a href="#catalog-so-arm-parallel-gripper-robonine"><img src="media/so-arm-parallel-gripper-robonine.png" alt="roboninecom/SO-ARM100-101-Parallel-Gripper" width="150"></a> | [roboninecom/SO-ARM100-101-Parallel-Gripper](#catalog-so-arm-parallel-gripper-robonine) | Parallel gripper | SO-10X |
-| <a href="#catalog-leflexitac"><img src="media/leflexitac.jpg" alt="TNA001-AI/lerobot_tactile" width="150"></a> | [TNA001-AI/lerobot_tactile](#catalog-leflexitac) | Tactile gripper | SO-10X |
-| <a href="#catalog-track-axis"><img src="media/track_axis.png" alt="avenhaus/SO-ARM100-Track-Axis" width="150"></a> | [avenhaus/SO-ARM100-Track-Axis](#catalog-track-axis) | Linear axis | SO-100 |
-| <a href="#catalog-leslider"><img src="media/leslider.jpg" alt="pham-tuan-binh/leslider" width="150"></a> | [pham-tuan-binh/leslider](#catalog-leslider) | Linear axis | SO-101 |
-| <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 |
-| <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm |
-| <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm | ZED Mini camera |
-| <a href="#catalog-finger-tracker"><img src="media/finger_tracker.png" alt="max-titov/finger-tracker" width="150"></a> | [max-titov/finger-tracker](#catalog-finger-tracker) | Hand tracking | HOPEJr hands |
-| <a href="#catalog-task-kit"><img src="media/task_kit.png" alt="cgreer/robot-task-kit" width="150"></a> | [cgreer/robot-task-kit](#catalog-task-kit) | Manipulation task objects | Robot arm practice |
-| <a href="#catalog-huggingface-rectangular-prism"><img src="media/huggingface_rectangular_prism.jpg" alt="Hugging Face rectangular prism" width="150"></a> | [Hugging Face rectangular prism](#catalog-huggingface-rectangular-prism) | Manipulation task object | Robot arm practice |
-| <a href="#catalog-silicone-rubber"><img src="media/silicone_rubber.png" alt="Self-Fusing Silicone Rubber" width="150"></a> | [Self-Fusing Silicone Rubber](#catalog-silicone-rubber) | Gripper friction material | Gripper tips |
-| <a href="#catalog-foam-tape"><img src="media/foam_tape.jpg" alt="Foam Tape" width="150"></a> | [Foam Tape](#catalog-foam-tape) | Gripper friction material | Gripper tips |
+| Preview | Project | What it adds | Fits / use | Listed price / scope |
+| --- | --- | --- | --- | --- |
+| <a href="#catalog-grip4so101"><img src="media/grip4so101.jpg" alt="Grip4SO101" width="150"></a> | [Grip4SO101](#catalog-grip4so101) | Modular gripper | SO-101 | ≈$90–$100, gripper hardware estimate |
+| <a href="#catalog-pincopen"><img src="media/PincOpen.png" alt="pollen-robotics/PincOpen" width="150"></a> | [pollen-robotics/PincOpen](#catalog-pincopen) | Gripper | SO-100 | ≈€25, gripper |
+| <a href="#catalog-so-arm-symmetrical-gripper"><img src="media/so-arm_symmetrical_gripper.png" alt="SiegeLord/Symmetrical Gripper" width="150"></a> | [SiegeLord/Symmetrical Gripper](#catalog-so-arm-symmetrical-gripper) | Gripper | SO-10X family | Not listed |
+| <a href="#catalog-so-100-chojins-gripper"><img src="media/so-100_chojins_gripper.png" alt="Chojins/LeRobot-S0-100-Models" width="150"></a> | [Chojins/LeRobot-S0-100-Models](#catalog-so-100-chojins-gripper) | Gripper | SO-100 | Not listed |
+| <a href="#catalog-parallel-gripper-1"><img src="media/parallel_gripper_1.png" alt="ggao50/SO101-Parallel-Gripper" width="150"></a> | [ggao50/SO101-Parallel-Gripper](#catalog-parallel-gripper-1) | Gripper + camera holder | SO-101 | Not listed |
+| <a href="#catalog-norma-core-pgripper"><img src="media/norma_core_pgripper.png" alt="norma-core/pgripper" width="150"></a> | [norma-core/pgripper](#catalog-norma-core-pgripper) | Gripper + camera holder | ElRobot; SO-10X may fit | Not listed |
+| <a href="#catalog-compliant-gripper-1"><img src="media/compliant_gripper_1.png" alt="SO-ARM Compliant Gripper" width="150"></a> | [SO-ARM Compliant Gripper](#catalog-compliant-gripper-1) | Flexible gripper | SO-101 | Not listed |
+| <a href="#catalog-compliant-gripper-2"><img src="media/compliant_gripper_2.png" alt="XLeRobot Compliant Gripper" width="150"></a> | [XLeRobot Compliant Gripper](#catalog-compliant-gripper-2) | Flexible gripper | XLeRobot | Not listed |
+| <a href="#catalog-so-arm-parallel-gripper-robonine"><img src="media/so-arm-parallel-gripper-robonine.png" alt="roboninecom/SO-ARM100-101-Parallel-Gripper" width="150"></a> | [roboninecom/SO-ARM100-101-Parallel-Gripper](#catalog-so-arm-parallel-gripper-robonine) | Parallel gripper | SO-10X | ≈$62, gripper BOM; ≈$83 full packs |
+| <a href="#catalog-leflexitac"><img src="media/leflexitac.jpg" alt="TNA001-AI/lerobot_tactile" width="150"></a> | [TNA001-AI/lerobot_tactile](#catalog-leflexitac) | Tactile gripper | SO-10X | ≈$44, tactile add-on |
+| <a href="#catalog-track-axis"><img src="media/track_axis.png" alt="avenhaus/SO-ARM100-Track-Axis" width="150"></a> | [avenhaus/SO-ARM100-Track-Axis](#catalog-track-axis) | Linear axis | SO-100 | Not listed |
+| <a href="#catalog-leslider"><img src="media/leslider.jpg" alt="pham-tuan-binh/leslider" width="150"></a> | [pham-tuan-binh/leslider](#catalog-leslider) | Linear axis | SO-101 | ≈$40, main slider hardware |
+| <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 | Not listed |
+| <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm | Not listed |
+| <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm | ZED Mini camera | ≈€110, camera excluded |
+| <a href="#catalog-encoder-leader-arm"><img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="150"></a> | [Matheshwaranpitchai/open-source-leader-arm](#catalog-encoder-leader-arm) | Encoder-based leader arm | SO-10X | ₹2,619 (≈$27), listed hardware; printing excluded |
+| <a href="#catalog-finger-tracker"><img src="media/finger_tracker.png" alt="max-titov/finger-tracker" width="150"></a> | [max-titov/finger-tracker](#catalog-finger-tracker) | Hand tracking | HOPEJr hands | Not listed |
+| <a href="#catalog-task-kit"><img src="media/task_kit.png" alt="cgreer/robot-task-kit" width="150"></a> | [cgreer/robot-task-kit](#catalog-task-kit) | Manipulation task objects | Robot arm practice | Not listed |
+| <a href="#catalog-huggingface-rectangular-prism"><img src="media/huggingface_rectangular_prism.jpg" alt="Hugging Face rectangular prism" width="150"></a> | [Hugging Face rectangular prism](#catalog-huggingface-rectangular-prism) | Manipulation task object | Robot arm practice | Not listed |
+| <a href="#catalog-silicone-rubber"><img src="media/silicone_rubber.png" alt="Self-Fusing Silicone Rubber" width="150"></a> | [Self-Fusing Silicone Rubber](#catalog-silicone-rubber) | Gripper friction material | Gripper tips | Not listed |
+| <a href="#catalog-foam-tape"><img src="media/foam_tape.jpg" alt="Foam Tape" width="150"></a> | [Foam Tape](#catalog-foam-tape) | Gripper friction material | Gripper tips | Not listed |
 
 ## Robot arms
 
@@ -604,7 +605,7 @@ Parallel gripper with camera holder compatible with SO-ARM100/SO-ARM101. 150N gr
 
 #### Price:
 
-~$70
+The [project BOM](https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper/blob/main/docs/bom.md) estimates **~$62** for one follower gripper with bulk-pack parts prorated, or **~$83** when buying the listed full packs. Shipping is excluded.
 
 ---
 
@@ -740,6 +741,20 @@ Alternative to silicone rubber for increasing friction. You can add screws to av
 ---
 
 <a id="teleoperation"></a>
+
+<a id="catalog-encoder-leader-arm"></a>
+
+### [Matheshwaranpitchai/open-source-leader-arm](https://github.com/Matheshwaranpitchai/open-source-leader-arm)
+
+A 3D-printed, six-joint leader arm with AS5600 encoders, an ESP32, and a LeRobot teleoperator plugin. Compatible with SO-10X.
+
+<img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="500">
+
+The [project BOM](https://github.com/Matheshwaranpitchai/open-source-leader-arm#bill-of-materials) lists **₹2,619 (about $27.45 USD)** in hardware, excluding 3D-printed parts, shipping, and taxes. CAD files, firmware, and assembly instructions are included.
+
+_Image: frame from the [project demo video](https://github.com/user-attachments/assets/977a0b56-c7d2-4a90-b86a-445dd3963871)._
+
+---
 
 <a id="catalog-finger-tracker"></a>
 
