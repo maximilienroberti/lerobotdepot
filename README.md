@@ -8,7 +8,7 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
 - **Want a robot that moves?** Browse [mobile manipulators](#mobile-manipulators), including single- and dual-arm designs.
 - **Need two arms or a legged robot?** Jump to [dual-arm robots](#dual-arm-robots) or [legged and humanoid robots](#legged-and-humanoid-robots).
 - **Upgrading a build?** Browse [grippers](#grippers), [linear axes and tools](#linear-axes-and-tools), or [vision and teleoperation](#vision-and-teleoperation).
-- **Already know your motors?** Use the [motor guide](#motor-guide), then check the motor family in the visual index.
+- **Already know your motors?** Use the [motor guide](#motor-guide), then check the motor family in the [catalog index](#catalog-index).
 
 ## Browse by robot type
 
@@ -22,7 +22,7 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
 - [Vision and teleoperation](#vision-and-teleoperation)
 - [Motor guide](#motor-guide) · [Contributing](#contributing)
 
-## Visual comparison index
+## Catalog index
 
 Select a project or its picture to jump to the detailed entry below. Prices are estimates already listed in this catalog; **their scope differs** (one arm, a pair, parts, or a complete build). Check each project for current prices, shipping, and availability.
 
