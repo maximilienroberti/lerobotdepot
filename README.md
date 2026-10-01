@@ -191,6 +191,10 @@ SO-101-derived bimanual robot with two 7 DOF arms and grippers. The project prov
 
 The project reports an approximate cost of **$637** for the dual-arm robot. Its [parts list](https://github.com/momoiorg-repository/dual_scorpion#parts-for-dual-scorpion-leader-and-follower) omits cameras, so check the build scope before comparing prices.
 
+<img src="media/dual-scorpion.jpg" width="500">
+
+_Image: Dual Scorpion screenshot supplied by the LeRobotDepot maintainer, cropped to the catalog's 2:1 format._
+
 ---
 
 ## Mobile Arms <a name="mobile-arms-dynamixel"></a>
