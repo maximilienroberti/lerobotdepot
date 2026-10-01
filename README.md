@@ -74,6 +74,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 |
 | <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm |
 | <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm | ZED Mini camera |
+| <a href="#catalog-encoder-leader-arm"><img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="150"></a> | [Matheshwaranpitchai/open-source-leader-arm](#catalog-encoder-leader-arm) | Encoder-based leader arm | SO-101 follower or simulated SO-ARM100 |
 | <a href="#catalog-finger-tracker"><img src="media/finger_tracker.png" alt="max-titov/finger-tracker" width="150"></a> | [max-titov/finger-tracker](#catalog-finger-tracker) | Hand tracking | HOPEJr hands |
 | <a href="#catalog-task-kit"><img src="media/task_kit.png" alt="cgreer/robot-task-kit" width="150"></a> | [cgreer/robot-task-kit](#catalog-task-kit) | Manipulation task objects | Robot arm practice |
 | <a href="#catalog-huggingface-rectangular-prism"><img src="media/huggingface_rectangular_prism.jpg" alt="Hugging Face rectangular prism" width="150"></a> | [Hugging Face rectangular prism](#catalog-huggingface-rectangular-prism) | Manipulation task object | Robot arm practice |
@@ -740,6 +741,20 @@ Alternative to silicone rubber for increasing friction. You can add screws to av
 ---
 
 <a id="teleoperation"></a>
+
+<a id="catalog-encoder-leader-arm"></a>
+
+### [Matheshwaranpitchai/open-source-leader-arm](https://github.com/Matheshwaranpitchai/open-source-leader-arm)
+
+A 3D-printed, six-joint leader arm that uses six AS5600 magnetic encoders instead of servos. Its ESP32 reads the encoders through an I²C multiplexer. The included LeRobot teleoperator plugin can drive an SO-101 follower or the project's MuJoCo SO-ARM100 simulation and record datasets. The author reports testing with the simulated follower; physical SO-101 support is documented in the setup instructions.
+
+<img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="500">
+
+The [project bill of materials](https://github.com/Matheshwaranpitchai/open-source-leader-arm#bill-of-materials) totals **₹2,619 (about $27.45 USD)** for electronics and other listed hardware: six encoder-and-magnet pairs, six 608 bearings, an I²C multiplexer, ESP32, wire, screws, perfboard, and a rubber band. This is a parts subtotal, not a complete build price; 3D-printed parts, shipping, and taxes are excluded. The repository provides CAD files, print settings, wiring, firmware, and assembly steps.
+
+_Image: frame from the [project author's demo video](https://github.com/user-attachments/assets/977a0b56-c7d2-4a90-b86a-445dd3963871), embedded in the [source README](https://github.com/Matheshwaranpitchai/open-source-leader-arm)._
+
+---
 
 <a id="catalog-finger-tracker"></a>
 
