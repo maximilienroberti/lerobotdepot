@@ -51,7 +51,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm | Feetech | ≈$660, basic build |
 | <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm | Feetech | ≈$300, total |
 | <a href="#catalog-open-duck-mini"><img src="media/open_duck_mini.png" alt="apirrone/Open_Duck_Mini" width="150"></a> | [apirrone/Open_Duck_Mini](#catalog-open-duck-mini) | Biped | Feetech family | ≈€410 |
-| <a href="#catalog-microduck"><img src="media/microduck.jpg" alt="Pollen Robotics Microduck" width="150"></a> | [Pollen Robotics Microduck](#catalog-microduck) | Biped; open-source software | 15 motors | $399, complete robot (introductory pre-order) |
+| <a href="#catalog-microduck"><img src="media/microduck.jpg" alt="Pollen Robotics Microduck" width="150"></a> | [Pollen Robotics Microduck](#catalog-microduck) | Biped (LeRobot support planned) | 15 motors | $399, complete robot (introductory pre-order) |
 | <a href="#catalog-hopejr"><img src="media/hopejr.png" alt="TheRobotStudio/HOPEJr" width="150"></a> | [TheRobotStudio/HOPEJr](#catalog-hopejr) | Humanoid | Feetech family | Not listed |
 
 ### Add-ons and tools
@@ -501,6 +501,8 @@ Miniature version of the BDX Droid by Disney.
 ### [Pollen Robotics Microduck](https://pollen-robotics.com/microduck/)
 
 The official Microduck is a 25 cm biped with 15 motors, a camera, LiDAR and a grasping beak. Its [software stack](https://github.com/pollen-robotics/microduck) is open source, but Pollen Robotics has **not released its mechanical or electronic design files** as open-source hardware.
+
+Microduck currently uses its own SDK and training stack. [LeRobot lists Microduck support on its roadmap](https://github.com/huggingface/lerobot/issues/3832), but it is not yet among the [documented LeRobot robot implementations](https://github.com/huggingface/lerobot/blob/main/docs/source/api/robots.mdx); direct LeRobot recording, teleoperation and policy deployment should not be assumed to work out of the box.
 
 <img src="media/microduck.jpg" alt="Official Pollen Robotics Microducks playing with a ball" width="500">
 
