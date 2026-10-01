@@ -162,6 +162,26 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 
 ---
 
+### [rabhishek100/SO-101 6-DoF Variant](https://github.com/rabhishek100/so101-6dof-and-extended-versions)
+
+This SO-101 variant adds a powered elbow-roll joint using one additional Feetech servo. The project supplies printable parts and matching LeRobot leader/follower plugins for the extra joint.
+
+<img src="media/so101-6dof.jpg" width="500">
+
+_Image: [project's 6-DoF render](https://github.com/rabhishek100/so101-6dof-and-extended-versions/blob/main/stl_files/so101_6dof/SO101_dof6_assembled_mod.png) (Apache-2.0 license)._
+
+---
+
+### [rabhishek100/SO-101 Extended Arm](https://github.com/rabhishek100/so101-6dof-and-extended-versions)
+
+Printable SO-101 variant with upper-arm and forearm links lengthened by **50 mm each** (100 mm more combined link length). It uses the standard SO-101 LeRobot configuration.
+
+<img src="media/so101-extended.jpg" width="500">
+
+_Image: [project's extended-arm render](https://github.com/rabhishek100/so101-6dof-and-extended-versions/blob/main/stl_files/so101_extended/S101_extended_assembled_mod.png) (Apache-2.0 license)._
+
+---
+
 ### [nomorewzx/PingTi-Arm](https://github.com/nomorewzx/PingTi-Arm)
 
 A Low-Cost Robotic Arm with Human Arm Length.
