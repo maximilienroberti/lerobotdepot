@@ -213,7 +213,7 @@ The [project's approximate **$637** price](https://momoi.org/?p=583) is for the 
 
 <img src="media/dual-scorpion.jpg" width="500">
 
-_Image: Dual Scorpion screenshot supplied by the LeRobotDepot maintainer, cropped to the catalog's 2:1 format._
+_Images: screenshots from the [Dual Scorpion project video](https://www.youtube.com/watch?v=a1u_bPGSeXs), supplied by the LeRobotDepot maintainer; live demonstration on the left and CAD render on the right._
 
 ---
 
