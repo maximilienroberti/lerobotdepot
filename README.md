@@ -1,6 +1,6 @@
 ![](media/lerobotdepot_logo.png)
 
-Welcome to **LeRobotDepot**. This repository is listing open-source hardware, components, and 3D-printable projects compatible with the [LeRobot library](https://github.com/huggingface/lerobot). It helps users easily discover, build, and contribute to affordable, accessible robotics solutions powered by state-of-the-art AI.
+Welcome to **LeRobotDepot**. This repository lists open-source hardware, components, 3D-printable projects, and related robots for the [LeRobot library](https://github.com/huggingface/lerobot) community. Some platforms need a custom LeRobot integration; their entries say so. It helps users discover, build, and contribute to affordable, accessible robotics solutions powered by state-of-the-art AI.
 
 ## Start here
 
@@ -50,7 +50,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-alohamini"><img src="media/AlohaMini.png" alt="liyiteng/AlohaMini" width="150"></a> | [liyiteng/AlohaMini](#catalog-alohamini) | Mobile dual-arm | Feetech | ≈$600, total |
 | <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm | Feetech | ≈$660, basic build |
 | <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm | Feetech | ≈$300, total |
-| <a href="#catalog-open-duck-mini"><img src="media/open_duck_mini.png" alt="apirrone/Open_Duck_Mini" width="150"></a> | [apirrone/Open_Duck_Mini](#catalog-open-duck-mini) | Biped | Feetech family | ≈€410 |
+| <a href="#catalog-open-duck-mini"><img src="media/open_duck_mini.png" alt="apirrone/Open_Duck_Mini" width="150"></a> | [apirrone/Open_Duck_Mini](#catalog-open-duck-mini) | Biped (LeRobot adapter needed) | Feetech family | ≈€410 |
 | <a href="#catalog-microduck"><img src="media/microduck.jpg" alt="Full-body Pollen Robotics Microduck" width="150"></a> | [Pollen Robotics Microduck](#catalog-microduck) | Biped (LeRobot support planned) | 15 motors | $399, complete robot (introductory pre-order) |
 | <a href="#catalog-hopejr"><img src="media/hopejr.png" alt="TheRobotStudio/HOPEJr" width="150"></a> | [TheRobotStudio/HOPEJr](#catalog-hopejr) | Humanoid | Feetech family | Not listed |
 
@@ -487,6 +487,8 @@ Mobile version of the SO-ARM100 with two arms.
 ### [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini)
 
 Miniature version of the BDX Droid by Disney.
+
+Open Duck Mini uses its own [runtime](https://github.com/apirrone/Open_Duck_Mini_Runtime) and [simulation training workflow](https://github.com/apirrone/Open_Duck_Mini/blob/v2/docs/sim2real.md). It is not among LeRobot's [natively supported hardware](https://github.com/huggingface/lerobot#robots--control), so direct LeRobot recording, teleoperation and policy deployment require a separate integration.
 
 <img src="media/open_duck_mini.png" width="500">
 
