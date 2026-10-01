@@ -162,6 +162,26 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 
 ---
 
+### [rabhishek100/SO-101 6-DoF Variant](https://github.com/rabhishek100/so101-6dof-and-extended-versions)
+
+This SO-101 variant adds a powered elbow-roll joint using one additional Feetech servo. The project supplies printable parts and matching LeRobot leader/follower plugins for the extra joint.
+
+<img src="media/so101-6dof.jpg" width="500">
+
+_Image: [project's 6-DoF render](https://github.com/rabhishek100/so101-6dof-and-extended-versions/blob/main/stl_files/so101_6dof/SO101_dof6_assembled_mod.png) (Apache-2.0 license)._
+
+---
+
+### [rabhishek100/SO-101 Extended Arm](https://github.com/rabhishek100/so101-6dof-and-extended-versions)
+
+Printable SO-101 variant with upper-arm and forearm links lengthened by **50 mm each** (100 mm more combined link length). It uses the standard SO-101 LeRobot configuration.
+
+<img src="media/so101-extended.jpg" width="500">
+
+_Image: [project's extended-arm render](https://github.com/rabhishek100/so101-6dof-and-extended-versions/blob/main/stl_files/so101_extended/S101_extended_assembled_mod.png) (Apache-2.0 license)._
+
+---
+
 ### [nomorewzx/PingTi-Arm](https://github.com/nomorewzx/PingTi-Arm)
 
 A Low-Cost Robotic Arm with Human Arm Length.
@@ -282,6 +302,18 @@ A project for a full body robot—currently featuring the torso and arms.
 ---
 
 ## Grippers & Accessories
+
+### [XiujinLiu/Grip4SO101](https://github.com/XiujinLiu/Grip4SO101)
+
+Modular, 3D-printable gripper for the SO-101 with interchangeable jaws. It replaces the stock end effector while reusing its motor; the repository includes STL and STEP files, assembly instructions, and a parts list.
+
+**Estimated additional cost: about $90–$100** for the gripper hardware (not the SO-101). As a buying-quantity example, [two 150 mm MGN7C rails](https://www.robotdigg.com/skim/index/page/20) are $26, a [10-pack of 12 × 18 × 4 mm bearings](https://vxb.com/products/6701-2rs-12x18x4-sealed-bearing-pack-of-10) is $29.99, a [10-pack of 3 × 10 × 4 mm bearings](https://vxb.com/products/623-2rs-3x10x4-sealed-miniature-bearing-pack-of-10) is $29.99, and [6 mm GT2 belt](https://www.robotdigg.com/product/10/Open-Ended-6mm-Width-GT2-Belt) starts at $1.80/m. Allow a few dollars more for screws and nuts; printing material, shipping, and taxes are excluded. The [project BOM](https://github.com/XiujinLiu/Grip4SO101#recommended-materials) requires only five and four bearings respectively, so buying packs leaves spares. Prices are indicative, not a published project price.
+
+<img src="media/grip4so101.jpg" width="500">
+
+_Image source: [Grip4SO101 project](https://github.com/XiujinLiu/Grip4SO101/blob/main/img/gripper_line.jpg) (MIT license)._
+
+---
 
 ### [pollen-robotics/PincOpen](https://github.com/pollen-robotics/PincOpen)
 
