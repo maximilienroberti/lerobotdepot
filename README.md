@@ -189,7 +189,7 @@ AB-SO-BOT is built using a combination of 3D-printed parts and standard 4040 T-s
 
 SO-101-derived bimanual robot with two 7 DOF arms and grippers. The project provides 3D-printable parts for the leader and follower, a metal frame, and LeRobot workflows for teleoperation and recording. See the [project overview and video](https://momoi.org/?p=583).
 
-The project reports an approximate cost of **$637** for the dual-arm robot. Its [parts list](https://github.com/momoiorg-repository/dual_scorpion#parts-for-dual-scorpion-leader-and-follower) omits cameras, so check the build scope before comparing prices.
+The [project's approximate **$637** price](https://momoi.org/?p=583) is for the complete bimanual leader-and-follower setup—not just the follower: its [parts list](https://github.com/momoiorg-repository/dual_scorpion#parts-for-dual-scorpion-leader-and-follower) specifies two leader arms and two follower arms (32 servos in total). Cameras are excluded. The project does not publish a separate follower-only total.
 
 <img src="media/dual-scorpion.jpg" width="500">
 
