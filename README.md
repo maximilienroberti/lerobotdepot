@@ -75,6 +75,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 | Not listed |
 | <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm | Not listed |
 | <a href="#catalog-open-arms-mini"><img src="media/open-arms-mini.jpg" alt="Open Arms Mini" width="150"></a> | [Open Arms Mini](#catalog-open-arms-mini) | 7-DOF leader arm + gripper | OpenArm teleoperation; Feetech STS3215 |
+| <a href="#catalog-u-arm"><img src="media/u-arm.jpg" alt="U-Arm leader teleoperating a Dobot follower" width="150"></a> | [U-Arm / LeRobot Anything](#catalog-u-arm) | Configurable leader arm | 6-/7-DOF followers; API adapter may be needed | $128–$142, Feetech parts; printing/follower excluded |
 | <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm | ZED Mini camera | ≈€110, camera excluded |
 | <a href="#catalog-encoder-leader-arm"><img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="150"></a> | [Matheshwaranpitchai/open-source-leader-arm](#catalog-encoder-leader-arm) | Encoder-based leader arm | SO-10X | ₹2,619 (≈$27), listed hardware; printing excluded |
 | <a href="#catalog-finger-tracker"><img src="media/finger_tracker.png" alt="max-titov/finger-tracker" width="150"></a> | [max-titov/finger-tracker](#catalog-finger-tracker) | Hand tracking | HOPEJr hands | Not listed |
@@ -768,6 +769,24 @@ _Photo: [pkooij/Open Arms Mini](https://github.com/pkooij/open-arms-mini/blob/ma
 
 ---
 
+
+<a id="catalog-u-arm"></a>
+
+### [MINT-SJTU/U-Arm (LeRobot Anything)](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm)
+
+3D-printable leader-arm system with three mechanical configurations for teleoperating 6- or 7-DOF follower arms. The repository publishes [STL and STEP files](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm/tree/main/mechanical), real-hardware demonstrations with Dobot, xArm, and ARX arms, and simulation examples including SO-100 and XLeRobot.
+
+<img src="media/u-arm.jpg" alt="U-Arm leader, left, teleoperating a Dobot follower, right" width="500">
+
+**Build requirements:** the [Feetech hardware guide](https://docs.google.com/document/d/1dUN4sJhYx_iuS_rFvj-YpyX4Y7nneRDTKJxCQ7PTXpY/edit) lists seven STS3215 servos for Configs 1/2 or eight for Config 3, a motor-control board, a power supply, a table clamp, a trigger spring, and printed parts. An alternative [Zhongling-servo build](https://docs.google.com/document/d/1TjhJOeJXsD5kmoYF-kuWfPju6WSUeSnivJiU7TH4vWs/edit) is also documented.
+
+**Software and compatibility:** the [real-robot setup guide](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm/blob/main/howtoplay.md) targets Ubuntu 20.04 and ROS Noetic. Matching joint topology does not guarantee software support: a follower needs an existing controller example or an adapter using its own API. SO-100 and XLeRobot are listed as simulation examples; check the project's integration code before using a physical robot.
+
+**Price:** the Feetech guide lists **$128 / €126 for Configs 1/2** and **$142 / €139 for Config 3**, plus a trigger spring quoted below $0.10 / €0.10. Screws/cables not separately priced, printing, tools, the follower robot, shipping, and taxes are excluded. The original Zhongling BOM lists **¥361.8 / ¥406.8** respectively; the README's approximately $60 starting price should not be used for the Feetech build.
+
+_Image: MINT-SJTU's [Dobot demonstration](https://github.com/MINT-SJTU/LeRobot-Anything-U-Arm/blob/main/pics/Dobot.gif), cropped into a labeled leader/follower montage and resized under [Apache-2.0](media/u-arm.LICENSE.txt)._
+
+---
 
 <a id="camera-arms"></a>
 
