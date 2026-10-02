@@ -74,6 +74,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-leslider"><img src="media/leslider.jpg" alt="pham-tuan-binh/leslider" width="150"></a> | [pham-tuan-binh/leslider](#catalog-leslider) | Linear axis | SO-101 | ≈$40, main slider hardware |
 | <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 | Not listed |
 | <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm | Not listed |
+| <a href="#catalog-open-arms-mini"><img src="media/open-arms-mini.jpg" alt="Open Arms Mini" width="150"></a> | [Open Arms Mini](#catalog-open-arms-mini) | 7-DOF leader arm + gripper | OpenArm teleoperation; Feetech STS3215 |
 | <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm | ZED Mini camera | ≈€110, camera excluded |
 | <a href="#catalog-encoder-leader-arm"><img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="150"></a> | [Matheshwaranpitchai/open-source-leader-arm](#catalog-encoder-leader-arm) | Encoder-based leader arm | SO-10X | ₹2,619 (≈$27), listed hardware; printing excluded |
 | <a href="#catalog-finger-tracker"><img src="media/finger_tracker.png" alt="max-titov/finger-tracker" width="150"></a> | [max-titov/finger-tracker](#catalog-finger-tracker) | Hand tracking | HOPEJr hands | Not listed |
@@ -750,6 +751,23 @@ Alternative to silicone rubber for increasing friction. You can add screws to av
 <img src="media/foam_tape.jpg" width="500">
 
 ## Vision and teleoperation
+
+<a id="catalog-open-arms-mini"></a>
+
+### [pkooij/Open Arms Mini](https://github.com/pkooij/open-arms-mini)
+
+3D-printable, Feetech-based leader arm with 7 DOF plus a gripper. Supported by LeRobot as `openarm_mini` and used to teleoperate bimanual OpenArm robots in [Hugging Face’s shirt-folding project](https://lerobot-robot-folding.hf.space/).
+
+<img src="media/open-arms-mini.jpg" alt="Open Arms Mini leader arm with wrist strap" width="500">
+
+**Price:** approximately €150 per leader arm / €300 per pair, excluding filament and screws.
+
+See the [BOM and build instructions](https://github.com/pkooij/open-arms-mini#bill-of-materials).
+
+_Photo: [pkooij/Open Arms Mini](https://github.com/pkooij/open-arms-mini/blob/main/images/openarm-mini2.jpg), resized and padded._
+
+---
+
 
 <a id="camera-arms"></a>
 
