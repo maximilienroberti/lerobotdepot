@@ -1,6 +1,6 @@
 ![](media/lerobotdepot_logo.png)
 
-Welcome to **LeRobotDepot**. This repository lists open-source hardware, components, 3D-printable projects, and related robots for the [LeRobot library](https://github.com/huggingface/lerobot) community. Some listed robots use their own software stacks and require an adapter for LeRobot workflows. It helps users discover, build, and contribute to affordable, accessible robotics solutions powered by state-of-the-art AI.
+Welcome to **LeRobotDepot**. This repository lists open-source hardware, components, 3D-printable projects, and related robots for the [LeRobot library](https://github.com/huggingface/lerobot) community. It helps users discover, build, and contribute to affordable, accessible robotics solutions powered by state-of-the-art AI.
 
 ## Start here
 
@@ -479,6 +479,8 @@ Mobile version of the SO-ARM100 with two arms.
 | Total                     | ~ $300 | ~ €300 | ~ ￥2000 |
 
 ## Legged and humanoid robots
+
+Open Duck Mini and Microduck are linked to the Hugging Face robotics community through their creators and offer a hands-on way to explore locomotion RL, although neither has native LeRobot support yet.
 
 <a id="bipedal-robots"></a>
 
