@@ -74,7 +74,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-leslider"><img src="media/leslider.jpg" alt="pham-tuan-binh/leslider" width="150"></a> | [pham-tuan-binh/leslider](#catalog-leslider) | Linear axis | SO-101 | ≈$40, main slider hardware |
 | <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 | Not listed |
 | <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm | Not listed |
-| — | [Open Arms Mini](#catalog-open-arms-mini) | 7-DOF leader arm + gripper | OpenArm teleoperation; Feetech STS3215 |
+| <a href="#catalog-open-arms-mini"><img src="media/open-arms-mini.jpg" alt="Open Arms Mini" width="150"></a> | [Open Arms Mini](#catalog-open-arms-mini) | 7-DOF leader arm + gripper | OpenArm teleoperation; Feetech STS3215 |
 | <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm | ZED Mini camera | ≈€110, camera excluded |
 | <a href="#catalog-encoder-leader-arm"><img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="150"></a> | [Matheshwaranpitchai/open-source-leader-arm](#catalog-encoder-leader-arm) | Encoder-based leader arm | SO-10X | ₹2,619 (≈$27), listed hardware; printing excluded |
 | <a href="#catalog-finger-tracker"><img src="media/finger_tracker.png" alt="max-titov/finger-tracker" width="150"></a> | [max-titov/finger-tracker](#catalog-finger-tracker) | Hand tracking | HOPEJr hands | Not listed |
@@ -756,15 +756,15 @@ Alternative to silicone rubber for increasing friction. You can add screws to av
 
 ### [pkooij/Open Arms Mini](https://github.com/pkooij/open-arms-mini)
 
-Compact, 3D-printable leader arm with seven human-like joints plus a gripper, using Feetech STS3215 servos. [LeRobot includes the `openarm_mini` teleoperator](https://github.com/huggingface/lerobot/tree/main/src/lerobot/teleoperators/openarm_mini), with wrist joint remapping and a wrist strap for precise rotational control.
+3D-printable, Feetech-based leader arm with 7 DOF plus a gripper. Supported by LeRobot as `openarm_mini` and used to teleoperate bimanual OpenArm robots in [Hugging Face’s shirt-folding project](https://lerobot-robot-folding.hf.space/).
 
-**Demonstrated use:** Hugging Face used OpenArm Mini leaders to teleoperate a bimanual OpenArm for shirt-folding demonstrations and human-in-the-loop corrections. The followers had a 5 cm upper-arm extension and custom fabric grippers; the [project write-up](https://lerobot-robot-folding.hf.space/) does not specify the OpenArm hardware revision. A separate [community project](https://github.com/Raphael-Quinones/openarm-mini-bimanual-mujoco) uses two physical Mini leaders to control an OpenArm V2 model in MuJoCo.
+<img src="media/open-arms-mini.jpg" alt="Open Arms Mini leader arm with wrist strap" width="500">
 
-Each arm needs eight STS3215-C046 servos (7.4 V, 1:147), a Waveshare serial bus servo driver board, a 7.5 V supply rated at least 2 A, USB and servo cables, fasteners, and a wrist strap. The repository provides [STL and STEP files and assembly instructions](https://github.com/pkooij/open-arms-mini#3d-printing); PLA or PETG is recommended.
+**Price:** approximately €150 per leader arm / €300 per pair, excluding filament and screws.
 
-**Project-estimated price:** approximately €150 per leader arm / €300 per pair, excluding filament and screws. The [BOM](https://github.com/pkooij/open-arms-mini/blob/main/BOM.md) also estimates €157 per arm / €314 per pair including filament, screws and cables. The folding write-up reports approximately €120 per arm for its setup. These are published estimates; follower robots are separate, and shipping and taxes are not specified.
+See the [BOM and build instructions](https://github.com/pkooij/open-arms-mini#bill-of-materials).
 
-**License:** The [hardware README](https://github.com/pkooij/open-arms-mini#license) declares Apache 2.0, but its linked LICENSE file is missing. Project photo reuse permission is not stated, so no photo is reproduced here.
+_Photo: [pkooij/Open Arms Mini](https://github.com/pkooij/open-arms-mini/blob/main/images/openarm-mini2.jpg), resized and padded._
 
 ---
 
