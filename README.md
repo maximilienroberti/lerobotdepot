@@ -39,6 +39,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-el-robot"><img src="media/el_robot.png" alt="norma-core/ElRobot" width="150"></a> | [norma-core/ElRobot](#catalog-el-robot) | Robot arm | Feetech | ±$220, follower |
 | <a href="#catalog-sam-arm"><img src="media/SAM_arm.png" alt="SAM arm" width="150"></a> | [SAM arm](#catalog-sam-arm) | Robot arm | Feetech | ±$450, pair |
 | <a href="#catalog-pingti-arm"><img src="media/PingTi-Arm.png" alt="nomorewzx/PingTi-Arm" width="150"></a> | [nomorewzx/PingTi-Arm](#catalog-pingti-arm) | Robot arm | Feetech | ±$261, follower |
+| <a href="#catalog-am-arm200"><img src="media/am-arm200.jpg" alt="AM-ARM200" width="150"></a> | [liyiteng/AM-ARM200](#catalog-am-arm200) | Robot arm (project LeRobot fork) | Feetech STS3215 + STS3095 | ≈$243 follower / ≈$144 leader, priced parts |
 | <a href="#catalog-koch-v1-1"><img src="media/koch-v1-1.png" alt="jess-moss/koch-v1-1" width="150"></a> | [jess-moss/koch-v1-1](#catalog-koch-v1-1) | Robot arm | Dynamixel | $199, follower |
 | <a href="#catalog-omx"><img src="media/omx.png" alt="robotis/omx" width="150"></a> | [robotis/omx](#catalog-omx) | Robot arm | Dynamixel | $250, leader/follower kits |
 | <a href="#catalog-nextis-aira-3d"><img src="media/nextis-aira-3d.jpg" alt="robertorobotics/Nextis-AIRA-3D" width="150"></a> | [robertorobotics/Nextis-AIRA-3D](#catalog-nextis-aira-3d) | Robot arm | Damiao + Dynamixel | ≈$1,650, follower parts |
@@ -272,6 +273,22 @@ A Low-Cost Robotic Arm with Human Arm Length.
 |---------------------------|-------|-------|
 | PingTi Follower arm       | ± $261| ± €218|
 | SO100 Leader Arm          | ± $127| ± €128|
+
+---
+
+<a id="catalog-am-arm200"></a>
+
+### [liyiteng/AM-ARM200](https://github.com/liyiteng/AM-ARM)
+
+3D-printable **6-DOF arm plus gripper**, with a project-reported **52 cm reach and 1 kg payload**. The repository includes STL and STEP files, a [parts list](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/bom.md), and [assembly instructions](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/hardware_assembly.md).
+
+<img src="media/am-arm200.jpg" alt="AM-ARM200 printed follower arm" width="500">
+
+**Build requirements:** the follower uses four Feetech STS3215 and three STS3095 servos with a 12V supply; the leader uses seven STS3215 servos with a 5V supply. Each arm needs a bus-servo controller. LeRobot workflows are documented in the project's [lerobot_alohamini fork](https://github.com/liyiteng/lerobot_alohamini/blob/main/docs/alohamini/am-arm200.md); upstream LeRobot requires the motor-table and seven-joint configuration changes described in the [project README](https://github.com/liyiteng/AM-ARM).
+
+**Price:** the detailed [project BOM](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/bom.md) lists **$243.33 for follower parts and $144.44 for leader parts** (about **$388 per pair**). These are published parts estimates, excluding unpriced fasteners/inserts, printing, optional cameras, shipping, and taxes; they differ from the README's rounded $380 pair estimate.
+
+_Image: Li Yiteng and Wu Zhiyong's [AM-ARM200 banner](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/media/am-arm200-banner.png), cropped and resized under [Apache-2.0](media/am-arm200.LICENSE.txt)._
 
 ---
 
