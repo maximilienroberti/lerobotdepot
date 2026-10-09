@@ -31,6 +31,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | Preview | Project | Type | Motors | Listed price / scope |
 | --- | --- | --- | --- | --- |
 | <a href="#catalog-so-arm100"><img src="media/so-arm100.jpg" alt="SO-100 &amp; SO-101 Arms" width="150"></a> | [SO-100 & SO-101 Arms](#catalog-so-arm100) | Robot arm | Feetech | $122, one arm |
+| <a href="#catalog-so-arm102"><img src="https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg" alt="Robonine SO-ARM 102" width="150"></a> | [Robonine SO-ARM 102](#catalog-so-arm102) | Robot arm | Feetech | ≈$629, leader + follower components; ≈$684 with printing material |
 | <a href="#catalog-moss-robot-arm"><img src="media/moss-robot-arm.png" alt="jess-moss/moss-robot-arms" width="150"></a> | [jess-moss/moss-robot-arms](#catalog-moss-robot-arm) | Robot arm | Feetech | $159, one arm |
 | <a href="#catalog-so-arm107"><img src="media/so-arm107.jpg" alt="ajinkyagorad/SO-ARM107" width="150"></a> | [ajinkyagorad/SO-ARM107](#catalog-so-arm107) | Robot arm | Feetech | Not listed (SO-100 + servo) |
 | <a href="#catalog-so101-6dof"><img src="media/so101-6dof.jpg" alt="SO-101 6-DoF variant" width="150"></a> | [SO-101 6-DoF variant](#catalog-so101-6dof) | Robot arm variant | Feetech | Not listed |
@@ -135,6 +136,32 @@ You can find kits for the SO100 arms here:
 - [ArmDojo](https://armdojo.com/collections/embodied-ai-robot-arms): Also include LeKiwi. Ships from Singapore; also sells finished 3D-printed part sets for the SO-101 and the LeKiwi base (supports removed, M3 heat-set inserts fitted) for builders who have the servos but no printer.
 
 Both **assembled** and **non-assembled** kits are available, depending on the supplier.
+
+---
+
+<a id="catalog-so-arm102"></a>
+
+### [roboninecom/SO-ARM-102](https://github.com/roboninecom/SO-ARM-102)
+
+SO-ARM 102 is a 3D-printable leader-follower arm by Robonine with **5 DOF plus a parallel gripper**, an 85 mm gripper opening, and a wrist camera mount. It retains the SO-101 joint layout and uses the LeRobot SO-101 leader/follower workflow. The repository includes STEP/STL files, 3MF printing projects, a BOM, assembly instructions and a standalone URDF/Xacro follower model. See the [software setup](https://github.com/roboninecom/SO-ARM-102#4-set-up-the-software) and the [first-release known issues](https://github.com/roboninecom/SO-ARM-102#-known-issues).
+
+<img src="https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg" alt="Robonine SO-ARM 102 follower arm" width="500">
+
+[Watch the hardware preview video (21.5 s, 1280 × 720)](https://github.com/roboninecom/SO-ARM-102/blob/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/video/so-arm-102-preview.mp4).
+
+_Photo: Robonine, [SO-ARM 102 project](https://github.com/roboninecom/SO-ARM-102), [CC BY 4.0](https://github.com/roboninecom/SO-ARM-102/blob/a62866a6d65efa4be7fd421e318ce8e649ac806a/DOCS-LICENSE.txt). Original image: 1600 × 900 px._
+
+#### Price
+
+The [project BOM](https://github.com/roboninecom/SO-ARM-102/blob/main/docs/bom.md#estimated-cost-for-one-leader--follower-kit) estimates **≈$629 for one leader + follower kit's components**, or **≈$684 including printing material**. Buying the example full packs and filament spools from scratch is ≈$760. These are DIY budget estimates, not a retail kit price; shipping, taxes, tools, a computer and a printer are excluded.
+
+The follower uses 2 × STS3235, 2 × STS3250 and 2 × STS3215 servos at **12 V**. The leader uses 6 × STS3215 at **5 V**.
+
+#### Kits
+
+- [Robonine kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)
+
+Hardware designs: [CERN-OHL-P-2.0](https://github.com/roboninecom/SO-ARM-102/blob/a62866a6d65efa4be7fd421e318ce8e649ac806a/HARDWARE-LICENSE.txt). Control software: external [LeRobot](https://github.com/huggingface/lerobot), Apache-2.0. Simulation files are currently covered by CC-BY-4.0 in the [REUSE map](https://github.com/roboninecom/SO-ARM-102/blob/a62866a6d65efa4be7fd421e318ce8e649ac806a/REUSE.toml).
 
 ---
 
