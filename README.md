@@ -174,7 +174,7 @@ Hardware designs: [CERN-OHL-P-2.0](https://github.com/roboninecom/SO-ARM-102/blo
 
 **Reach and payload:** the project advertises **52 cm reach and 1 kg payload**, without specifying the reach measurement reference or the payload test reach, pose, or duration.
 
-**Build:** the 12 V follower uses 4 × STS3215 and 3 × STS3095; the 5 V leader uses 7 × STS3215. Each arm needs a bus-servo controller. The [printing guide](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/3d-print.md) supports PLA, PETG, or ABS and strongly recommends six walls for the follower.
+**Build:** the 12 V follower uses 4 × STS3215 and 3 × STS3095; the 5 V leader uses 7 × STS3215. Each arm needs a bus-servo controller. The [printing guide](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/3d-print.md) supports PLA, PETG, or ABS.
 
 **LeRobot:** the documented [lerobot_alohamini fork workflow](https://github.com/liyiteng/lerobot_alohamini/blob/main/docs/alohamini/am-arm200.md) uses AM-ARM200-specific leader/follower profiles for calibration, teleoperation, recording, and training. The [project README](https://github.com/liyiteng/AM-ARM) also provides upstream patch instructions for STS3095 support and the extra joint.
 
