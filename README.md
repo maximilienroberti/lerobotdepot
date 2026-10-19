@@ -24,37 +24,41 @@ Welcome to **LeRobotDepot**. This repository lists open-source hardware, compone
 
 ## Catalog index
 
-Select a project or its picture to jump to the detailed entry below. Prices are estimates already listed in this catalog; **their scope differs** (one arm, a pair, parts, or a complete build). Check each project for current prices, shipping, and availability.
+Select a project or its picture to jump to the detailed entry below. Prices are project BOM estimates or vendor listings; **their scope differs**. They are not fresh quotes for every component. Check the linked sources for current prices, shipping, and availability.
 
 ### Robot platforms
 
-| Preview | Project | Type | Motors | Listed price / scope |
-| --- | --- | --- | --- | --- |
-| <a href="#catalog-so-arm100"><img src="media/so-arm100.jpg" alt="SO-100 &amp; SO-101 Arms" width="150"></a> | [SO-100 & SO-101 Arms](#catalog-so-arm100) | Robot arm | Feetech | $122, one arm |
-| <a href="#catalog-so-arm102"><img src="https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg" alt="Robonine SO-ARM 102" width="150"></a> | [Robonine SO-ARM 102](#catalog-so-arm102) | Robot arm | Feetech | ≈$404, leader + follower components incl. camera; ≈$444 with printing material |
-| <a href="#catalog-am-arm200"><img src="media/am-arm200.jpg" alt="AM-ARM200" width="150"></a> | [liyiteng/AM-ARM200](#catalog-am-arm200) | Robot arm | Feetech | ≈$243 follower / ≈$144 leader, priced parts |
-| <a href="#catalog-moss-robot-arm"><img src="media/moss-robot-arm.png" alt="jess-moss/moss-robot-arms" width="150"></a> | [jess-moss/moss-robot-arms](#catalog-moss-robot-arm) | Robot arm | Feetech | $159, one arm |
-| <a href="#catalog-so-arm107"><img src="media/so-arm107.jpg" alt="ajinkyagorad/SO-ARM107" width="150"></a> | [ajinkyagorad/SO-ARM107](#catalog-so-arm107) | Robot arm | Feetech | Not listed (SO-100 + servo) |
-| <a href="#catalog-so101-6dof"><img src="media/so101-6dof.jpg" alt="SO-101 6-DoF variant" width="150"></a> | [SO-101 6-DoF variant](#catalog-so101-6dof) | Robot arm variant | Feetech | Not listed |
-| <a href="#catalog-so101-extended"><img src="media/so101-extended.jpg" alt="SO-101 extended arm" width="150"></a> | [SO-101 extended arm](#catalog-so101-extended) | Robot arm variant | Feetech | Not listed |
-| <a href="#catalog-el-robot"><img src="media/el_robot.png" alt="norma-core/ElRobot" width="150"></a> | [norma-core/ElRobot](#catalog-el-robot) | Robot arm | Feetech | ±$220, follower |
-| <a href="#catalog-sam-arm"><img src="media/SAM_arm.png" alt="SAM arm" width="150"></a> | [SAM arm](#catalog-sam-arm) | Robot arm | Feetech | ±$450, pair |
-| <a href="#catalog-pingti-arm"><img src="media/PingTi-Arm.png" alt="nomorewzx/PingTi-Arm" width="150"></a> | [nomorewzx/PingTi-Arm](#catalog-pingti-arm) | Robot arm | Feetech | ±$261, follower |
-| <a href="#catalog-koch-v1-1"><img src="media/koch-v1-1.png" alt="jess-moss/koch-v1-1" width="150"></a> | [jess-moss/koch-v1-1](#catalog-koch-v1-1) | Robot arm | Dynamixel | $199, follower |
-| <a href="#catalog-omx"><img src="media/omx.png" alt="robotis/omx" width="150"></a> | [robotis/omx](#catalog-omx) | Robot arm | Dynamixel | $250, leader/follower kits |
-| <a href="#catalog-nextis-aira-3d"><img src="media/nextis-aira-3d.jpg" alt="robertorobotics/Nextis-AIRA-3D" width="150"></a> | [robertorobotics/Nextis-AIRA-3D](#catalog-nextis-aira-3d) | Robot arm | Damiao + Dynamixel | ≈$1,650, follower parts |
-| <a href="#catalog-openarm"><img src="media/openarm-2.0.jpg" alt="OpenArm 2.0 bimanual robot" width="150"></a> | [Enactic OpenArm 2.0](#catalog-openarm) | Dual-arm | Damiao | ≈$6,500, bimanual system |
-| <a href="#catalog-ab-so-bot"><img src="media/ab-so-bot.png" alt="Mr-C4T/AB-SO-BOT" width="150"></a> | [Mr-C4T/AB-SO-BOT](#catalog-ab-so-bot) | Dual-arm | Feetech | Not listed |
-| <a href="#catalog-dual-scorpion"><img src="media/dual-scorpion.jpg" alt="Dual Scorpion" width="150"></a> | [Dual Scorpion](#catalog-dual-scorpion) | Dual-arm | Feetech | ≈$637, leader + follower (cameras excluded) |
-| <a href="#catalog-aloha-2"><img src="media/aloha-2.png" alt="ALOHA 2" width="150"></a> | [ALOHA 2](#catalog-aloha-2) | Dual-arm | Dynamixel | ≈$27,000, listed estimate |
-| <a href="#catalog-lekiwi"><img src="media/LeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Feetech)](#catalog-lekiwi) | Mobile arm | Feetech | $488.21, 12V version |
-| <a href="#catalog-dynamixellekiwi"><img src="media/DynamixelLeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Dynamixel)](#catalog-dynamixellekiwi) | Mobile arm | Dynamixel | Not listed |
-| <a href="#catalog-alohamini"><img src="media/AlohaMini.png" alt="liyiteng/AlohaMini" width="150"></a> | [liyiteng/AlohaMini](#catalog-alohamini) | Mobile dual-arm | Feetech | ≈$600, total |
-| <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm | Feetech | ≈$660, basic build |
-| <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm | Feetech | ≈$300, total |
-| <a href="#catalog-open-duck-mini"><img src="media/open_duck_mini.png" alt="apirrone/Open_Duck_Mini" width="150"></a> | [apirrone/Open_Duck_Mini](#catalog-open-duck-mini) | Biped (LeRobot adapter needed) | Feetech family | ≈€410 |
-| <a href="#catalog-microduck"><img src="media/microduck.jpg" alt="Full-body Pollen Robotics Microduck" width="150"></a> | [Pollen Robotics Microduck](#catalog-microduck) | Biped (LeRobot support planned) | 15 motors | $399, complete robot (introductory pre-order) |
-| <a href="#catalog-hopejr"><img src="media/hopejr.png" alt="TheRobotStudio/HOPEJr" width="150"></a> | [TheRobotStudio/HOPEJr](#catalog-hopejr) | Humanoid | Feetech family | Not listed |
+Each row shows **one price** and **what it covers**. Arm prices use a leader + follower pair when a sourced pair estimate is available. “Extra” means excluded; shipping and taxes may also be extra. Unconfirmed estimates are marked **Not verified**.
+
+**DOF** means degrees of freedom per arm, excluding the gripper, mobile base, lift, and head.
+
+| Preview | Project | Type | Motors | Price | What it covers |
+| --- | --- | --- | --- | --- | --- |
+| <a href="#catalog-so-arm100"><img src="media/so-arm100.jpg" alt="SO-100 &amp; SO-101 Arms" width="150"></a> | [SO-100 & SO-101 Arms](#catalog-so-arm100) | Robot arm (5 DOF) | Feetech | ≈$230 | 1 leader + 1 follower; BOM parts, printing/cameras extra |
+| <a href="#catalog-so-arm102"><img src="https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg" alt="Robonine SO-ARM 102" width="150"></a> | [Robonine SO-ARM 102](#catalog-so-arm102) | Robot arm (5 DOF) | Feetech | ≈$404 | 1 leader + 1 follower; components incl. camera, printing extra |
+| <a href="#catalog-am-arm200"><img src="media/am-arm200.jpg" alt="AM-ARM200" width="150"></a> | [liyiteng/AM-ARM200](#catalog-am-arm200) | Robot arm (6 DOF) | Feetech | ≈$388 | 1 leader + 1 follower; partial BOM, printing/cameras extra |
+| <a href="#catalog-moss-robot-arm"><img src="media/moss-robot-arm.png" alt="jess-moss/moss-robot-arms" width="150"></a> | [jess-moss/moss-robot-arms](#catalog-moss-robot-arm) | Robot arm (5 DOF) | Feetech | ≈$288 | 1 leader + 1 follower; project BOM estimate |
+| <a href="#catalog-so-arm107"><img src="media/so-arm107.jpg" alt="ajinkyagorad/SO-ARM107" width="150"></a> | [ajinkyagorad/SO-ARM107](#catalog-so-arm107) | Robot arm (6 DOF) | Feetech | Not listed | SO-100-based build + extra servo |
+| <a href="#catalog-so101-6dof"><img src="media/so101-6dof.jpg" alt="SO-101 6-DoF variant" width="150"></a> | [SO-101 6-DoF variant](#catalog-so101-6dof) | Robot arm (6 DOF) | Feetech | Not listed | — |
+| <a href="#catalog-so101-extended"><img src="media/so101-extended.jpg" alt="SO-101 extended arm" width="150"></a> | [SO-101 extended arm](#catalog-so101-extended) | Robot arm (5 DOF) | Feetech | Not listed | — |
+| <a href="#catalog-el-robot"><img src="media/el_robot.png" alt="norma-core/ElRobot" width="150"></a> | [norma-core/ElRobot](#catalog-el-robot) | Robot arm (7 DOF) | Feetech | ≈$220 | 1 follower; project parts estimate |
+| <a href="#catalog-sam-arm"><img src="media/SAM_arm.png" alt="SAM arm" width="150"></a> | [SAM arm](#catalog-sam-arm) | Robot arm (6 DOF) | Feetech | Not verified | Leader + follower; earlier estimate unconfirmed |
+| <a href="#catalog-pingti-arm"><img src="media/PingTi-Arm.png" alt="nomorewzx/PingTi-Arm" width="150"></a> | [nomorewzx/PingTi-Arm](#catalog-pingti-arm) | Robot arm (5 DOF) | Feetech | ≈$390 | 1 SO-100 leader + 1 PingTi follower; parts estimate |
+| <a href="#catalog-koch-v1-1"><img src="media/koch-v1-1.png" alt="jess-moss/koch-v1-1" width="150"></a> | [jess-moss/koch-v1-1](#catalog-koch-v1-1) | Robot arm (5 DOF) | Dynamixel | ≈$477 | 1 leader + 1 follower; BOM parts, printing/cameras extra |
+| <a href="#catalog-omx"><img src="media/omx.png" alt="robotis/omx" width="150"></a> | [robotis/omx](#catalog-omx) | Robot arm (5 DOF) | Dynamixel | $250 | 1 leader + 1 follower; motor kit, printed parts extra |
+| <a href="#catalog-nextis-aira-3d"><img src="media/nextis-aira-3d.jpg" alt="robertorobotics/Nextis-AIRA-3D" width="150"></a> | [robertorobotics/Nextis-AIRA-3D](#catalog-nextis-aira-3d) | Robot arm (6 DOF) | Damiao + Dynamixel | ≈$1,850 | 1 leader + 1 follower; parts incl. printing, camera extra |
+| <a href="#catalog-openarm"><img src="media/openarm-2.0.jpg" alt="OpenArm 2.0 bimanual robot" width="150"></a> | [Enactic OpenArm 2.0](#catalog-openarm) | Dual-arm (7 DOF each) | Damiao | From $6,500 | Bimanual system; inclusions depend on vendor |
+| <a href="#catalog-ab-so-bot"><img src="media/ab-so-bot.png" alt="Mr-C4T/AB-SO-BOT" width="150"></a> | [Mr-C4T/AB-SO-BOT](#catalog-ab-so-bot) | Dual-arm (5 DOF each) | Feetech | Not listed | — |
+| <a href="#catalog-dual-scorpion"><img src="media/dual-scorpion.jpg" alt="Dual Scorpion" width="150"></a> | [Dual Scorpion](#catalog-dual-scorpion) | Dual-arm (7 DOF each) | Feetech | ≈$637 | 2 leaders + 2 followers; project estimate, cameras extra |
+| <a href="#catalog-aloha-2"><img src="media/aloha-2.png" alt="ALOHA 2" width="150"></a> | [ALOHA 2](#catalog-aloha-2) | Dual-arm (6 DOF each) | Dynamixel | Not verified | 2 leaders + 2 followers; retail kit discontinued |
+| <a href="#catalog-lekiwi"><img src="media/LeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Feetech)](#catalog-lekiwi) | Mobile arm (5 DOF) | Feetech | ≈$482 | 12 V base + 1 follower + 1 leader; printing extra |
+| <a href="#catalog-dynamixellekiwi"><img src="media/DynamixelLeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Dynamixel)](#catalog-dynamixellekiwi) | Mobile arm (5 DOF) | Dynamixel | Not listed | — |
+| <a href="#catalog-alohamini"><img src="media/AlohaMini.png" alt="liyiteng/AlohaMini" width="150"></a> | [liyiteng/AlohaMini](#catalog-alohamini) | Mobile dual-arm (5 DOF each) | Feetech | ≈$600 | AlohaMini1 robot parts; leaders/printing extra |
+| <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm (5 DOF each) | Feetech | ≈$660 | Robot parts; leaders/printing/laptop extra |
+| <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm (5 DOF each) | Feetech | ≈$300 | Robot parts; leaders/power bank/compute/printing extra |
+| <a href="#catalog-open-duck-mini"><img src="media/open_duck_mini.png" alt="apirrone/Open_Duck_Mini" width="150"></a> | [apirrone/Open_Duck_Mini](#catalog-open-duck-mini) | Biped (LeRobot adapter needed) | Feetech family | ≈€398 | V2 base BOM; expression package extra |
+| <a href="#catalog-microduck"><img src="media/microduck.jpg" alt="Full-body Pollen Robotics Microduck" width="150"></a> | [Pollen Robotics Microduck](#catalog-microduck) | Biped (LeRobot support planned) | 15 motors | $399 | Complete robot; introductory pre-order |
+| <a href="#catalog-hopejr"><img src="media/hopejr.png" alt="TheRobotStudio/HOPEJr" width="150"></a> | [TheRobotStudio/HOPEJr](#catalog-hopejr) | Humanoid | Feetech family | Not listed | — |
 
 ### Add-ons and tools
 
@@ -77,8 +81,8 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 | Not listed |
 | <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm | Not listed |
 | <a href="#catalog-open-arms-mini"><img src="media/open-arms-mini.jpg" alt="Open Arms Mini" width="150"></a> | [Open Arms Mini](#catalog-open-arms-mini) | 7-DOF leader arm + gripper | OpenArm teleoperation; Feetech STS3215 |
-| <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm | ZED Mini camera | ≈€110, camera excluded |
-| <a href="#catalog-encoder-leader-arm"><img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="150"></a> | [Matheshwaranpitchai/open-source-leader-arm](#catalog-encoder-leader-arm) | Encoder-based leader arm | SO-10X | ₹2,619 (≈$27), listed hardware; printing excluded |
+| <a href="#catalog-cambot"><img src="media/cambot.png" alt="open-thought/cambot" width="150"></a> | [open-thought/cambot](#catalog-cambot) | Stereo camera arm (6 DOF) | ZED Mini camera | ≈€110, camera excluded |
+| <a href="#catalog-encoder-leader-arm"><img src="media/encoder-leader-arm.jpg" alt="Encoder leader arm teleoperating a simulated SO-ARM" width="150"></a> | [Matheshwaranpitchai/open-source-leader-arm](#catalog-encoder-leader-arm) | Encoder-based leader arm (5 DOF + grip control) | SO-10X | ₹2,619 (≈$27), listed hardware; printing excluded |
 | <a href="#catalog-finger-tracker"><img src="media/finger_tracker.png" alt="max-titov/finger-tracker" width="150"></a> | [max-titov/finger-tracker](#catalog-finger-tracker) | Hand tracking | HOPEJr hands | Not listed |
 | <a href="#catalog-task-kit"><img src="media/task_kit.png" alt="cgreer/robot-task-kit" width="150"></a> | [cgreer/robot-task-kit](#catalog-task-kit) | Manipulation task objects | Robot arm practice | Not listed |
 | <a href="#catalog-huggingface-rectangular-prism"><img src="media/huggingface_rectangular_prism.jpg" alt="Hugging Face rectangular prism" width="150"></a> | [Hugging Face rectangular prism](#catalog-huggingface-rectangular-prism) | Manipulation task object | Robot arm practice | Not listed |
@@ -275,7 +279,7 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 
 |        Price              | US    |
 |---------------------------|-------|
-| Follower and Leader arms  | ± $450|
+| Follower and Leader arms  | Earlier estimate: ~$450; not currently verified |
 
 ---
 
@@ -291,6 +295,8 @@ A Low-Cost Robotic Arm with Human Arm Length.
 |---------------------------|-------|-------|
 | PingTi Follower arm       | ± $261| ± €218|
 | SO100 Leader Arm          | ± $127| ± €128|
+
+The [project README](https://github.com/nomorewzx/PingTi-Arm) estimates **~$390 for a PingTi follower + SO-100 leader**. Its [BOM](https://github.com/nomorewzx/PingTi-Arm/blob/main/docs/BOM_List.md) lists $261.09 and $127 respectively; these parts subtotals do not price printing, cameras, or a follower power supply.
 
 ---
 
@@ -343,8 +349,10 @@ The OMX is a 5-DOF robotic arm. All motor parameters are preconfigured at the fa
 
 |         Price                | US    |
 |------------------------------|-------|
-| Leader and Follower Arm Kits | $250  |
-| Full Leader and Follower Arm | $299  |
+| Leader + follower motor kit (printed parts excluded) | $250 |
+| Leader + follower set with printed parts | $299 |
+
+Prices: [ROBOTIS motor kit](https://en.robotis.com/shop_en/item.php?it_id=905-0048-000) and [OMX-AI set](https://en.robotis.com/shop_en/item.php?it_id=905-0047-000). ROBOTIS confirms that OMX-AI includes both the leader and follower; the $250 motor kit excludes 3D-printed parts. Shipping and import charges are extra.
 
 #### Kits
 
@@ -364,7 +372,7 @@ AIRA is a 3D-printable robotic arm with six arm joints and a gripper. Its follow
 
 #### Price:
 
-~$1,650 for follower arm parts, or ~$2,200–$2,750 for the full leader/follower kit including shipping and import duties (project estimates from early 2026).
+The [project BOM](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/hardware/BOM.md#cost-summary) estimates **~$1,850 for leader + follower parts**, including filament and screws but excluding the optional camera, shipping, and import duties. Follower-only parts are ~$1,650; the full pair including shipping and duties is estimated at ~$2,200–$2,750 (early-2026 project estimates).
 
 _Image: cropped frame from the [AIRA demo video](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/media/aira_demo.mp4), shared by the [Apache 2.0 licensed project](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/LICENSE)._
 
@@ -415,7 +423,7 @@ AB-SO-BOT is built using a combination of 3D-printed parts and standard 4040 T-s
 
 SO-101-derived bimanual robot with two 7 DOF arms and grippers. The project provides 3D-printable parts for the leader and follower, a metal frame, and LeRobot workflows for teleoperation and recording. See the [project overview and video](https://momoi.org/?p=583).
 
-The [project's approximate **$637** price](https://momoi.org/?p=583) is for the complete bimanual leader-and-follower setup—not just the follower: its [parts list](https://github.com/momoiorg-repository/dual_scorpion#parts-for-dual-scorpion-leader-and-follower) specifies two leader arms and two follower arms (32 servos in total). Cameras are excluded.
+The [project's approximate **$637** price](https://momoi.org/?p=583) is a project estimate for two leaders and two followers: its [parts list](https://github.com/momoiorg-repository/dual_scorpion#parts-for-dual-scorpion-leader-and-follower) specifies two leader arms and two follower arms (32 servos in total). The published BOM focuses on motors, controller boards, and frame parts; cameras and other unpriced build items are extra.
 
 <img src="media/dual-scorpion.jpg" width="500">
 
@@ -438,11 +446,11 @@ The system is designed for research in fine-grained bimanual manipulation. Its c
 
 #### Price
 
-~$27,000
+Earlier catalog estimate: ~$27,000; a current price could not be verified. The [Trossen Aloha Stationary kit](https://www.trossenrobotics.com/aloha-stationary) is discontinued. The system uses two leader and two follower arms.
 
 #### Kits
 
-- [Aloha Stationary](https://www.trossenrobotics.com/aloha-stationary) by [Trossen Robotics](https://www.trossenrobotics.com)
+- [Aloha Stationary](https://www.trossenrobotics.com/aloha-stationary) by [Trossen Robotics](https://www.trossenrobotics.com) — discontinued.
 
 <a id="mobile-arms"></a>
 
@@ -458,11 +466,13 @@ Mobile version of the SO-ARM100.
 
 | Price              | US      | EU      |
 |--------------------|---------|---------|
-| 12V                | $488.21 | €542.56 |
-| 5V                 | $524.95 | €525.9  |
-| Base only (5V)     | $251.95 | €306.9  |
-| Base only (12V)    | $257.43 | €305    |
-| Base only wired    | $174    | €233.3  |
+| 12V                | $482 | €545.8 |
+| 5V                 | $499 | €526  |
+| Base only (5V)     | $248 | €295  |
+| Base only (12V)    | $251.5 | €307.8    |
+| Base only wired    | $184 | €235  |
+
+The [project BOM](https://github.com/SIGRobotics-UIUC/LeKiwi/blob/main/BOM.md) includes the mobile base, one follower arm, one leader arm, onboard compute, cameras, and battery in the 12 V / 5 V totals. Printing is excluded; shipping and taxes are additional.
 
 ---
 
@@ -484,13 +494,15 @@ Converted version of LeKiwi to use ROBOTIS components by using the Koch v1.1 arm
 
 ### [liyiteng/AlohaMini](https://github.com/liyiteng/AlohaMini)
 
-Mobile version of the SO-ARM100 with two arms on a motorized vertical lift.
+This entry covers **AlohaMini1**, the SO-ARM100-based robot with two arms on a motorized vertical lift. The newer AlohaMini2 has a different BOM.
 
 <img src="media/AlohaMini.png" width="500">
 
 |              Price        | US     |
 |---------------------------|--------|
-| Total                     | ~ $600 |
+| AlohaMini1 robot parts (project estimate) | ~$600 |
+
+The [AlohaMini1 project estimate](https://github.com/liyiteng/AlohaMini/blob/main/AlohaMini1/README.md) includes the mobile robot, Raspberry Pi, five cameras, and batteries. Leader arms and printing are extra; consult the [detailed BOM](https://github.com/liyiteng/AlohaMini/blob/main/AlohaMini1/docs/BOM.md) before budgeting.
 
 ---
 
@@ -505,6 +517,8 @@ Practical low-cost **dual-arm mobile home robot**, built on top of the LeKiwi ba
 | Price (buy parts yourself)                | US     | EU     | RMB        |
 |------------------------------------------|--------|--------|------------|
 | Basic (use your laptop, single RGB cam)  | ~$660  | ~€680  | ~¥3999     |
+
+The [basic-build estimate](https://xlerobot.readthedocs.io/en/latest/hardware/getting_started/material.html) is for the robot with two follower arms, battery, and cameras, using your laptop. Leader arms, printing, tools, shipping, and taxes are extra.
 
 #### Kits
 
@@ -525,6 +539,8 @@ Mobile version of the SO-ARM100 with two arms.
 |---------------------------|--------|--------|-----------|
 | Total                     | ~ $300 | ~ €300 | ~ ￥2000 |
 
+The [project hardware BOM](https://github.com/timqian/bambot/blob/main/hardware/README.md) prices the robot-side parts at ~$300; some cables are unpriced. Leader-arm hardware, a power bank, computer/camera setup, and printing are extra.
+
 ## Legged and humanoid robots
 
 Open Duck Mini and Microduck are linked to the Hugging Face robotics community through their creators and offer a hands-on way to explore locomotion RL, although neither has native LeRobot support yet.
@@ -543,7 +559,7 @@ Open Duck Mini uses its own [runtime](https://github.com/apirrone/Open_Duck_Mini
 
 #### Price
 
-~€410
+The [V2 project BOM](https://docs.google.com/spreadsheets/d/1gq4iWWHEJVgAA_eemkTEsshXqrYlFxXAPwO515KpCJc/edit) lists **€398.10 for the base build**, including a €20 PLA allowance, or **€432.34 with the expression package**. These are reference estimates; bulk-pack purchases, shipping, and taxes can increase the amount paid.
 
 ---
 
