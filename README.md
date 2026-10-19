@@ -281,8 +281,6 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 |---------------------------|-------|
 | Follower and Leader arms  | Earlier estimate: ~$450; not currently verified |
 
-The current [public project README](https://github.com/SimpleAutomationOrg/SimpleAutomation) mentions a $300 arm but does not confirm the earlier pair price or its inclusions. Check the community BOM before budgeting.
-
 ---
 
 <a id="catalog-pingti-arm"></a>
