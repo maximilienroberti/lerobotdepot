@@ -378,6 +378,8 @@ The [project BOM](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/ha
 
 _Image: cropped frame from the [AIRA demo video](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/media/aira_demo.mp4), shared by the [Apache 2.0 licensed project](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/LICENSE)._
 
+---
+
 <a id="catalog-seeed-rebot"></a>
 
 ### [Seeed Studio reBot B601](https://github.com/Seeed-Projects/reBot-DevArm)
