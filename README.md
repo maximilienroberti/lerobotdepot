@@ -47,6 +47,8 @@ Each row shows **one price** and **what it covers**. Arm prices use a leader + f
 | <a href="#catalog-koch-v1-1"><img src="media/koch-v1-1.png" alt="jess-moss/koch-v1-1" width="150"></a> | [jess-moss/koch-v1-1](#catalog-koch-v1-1) | Robot arm (5 DOF) | Dynamixel | ≈$477 | 1 leader + 1 follower; BOM parts, printing/cameras extra |
 | <a href="#catalog-omx"><img src="media/omx.png" alt="robotis/omx" width="150"></a> | [robotis/omx](#catalog-omx) | Robot arm (5 DOF) | Dynamixel | $250 | 1 leader + 1 follower; motor kit, printed parts extra |
 | <a href="#catalog-nextis-aira-3d"><img src="media/nextis-aira-3d.jpg" alt="robertorobotics/Nextis-AIRA-3D" width="150"></a> | [robertorobotics/Nextis-AIRA-3D](#catalog-nextis-aira-3d) | Robot arm (6 DOF) | Damiao + Dynamixel | ≈$1,850 | 1 leader + 1 follower; parts incl. printing, camera extra |
+| <a href="#catalog-seeed-rebot"><img src="media/rebot-b601-dm.png" alt="Seeed reBot B601-DM" width="150"></a> | [Seeed reBot B601-DM](#catalog-seeed-rebot) | Robot arm (6 DOF) | Damiao | $1,499 | 1 assembled follower + gripper; PSU/leader/cameras extra |
+| <a href="#catalog-seeed-rebot"><img src="media/rebot-b601-rs.webp" alt="Seeed reBot B601-RS" width="150"></a> | [Seeed reBot B601-RS](#catalog-seeed-rebot) | Robot arm (6 DOF) | RobStride | $1,699 | 1 assembled follower + gripper; PSU/leader/cameras extra |
 | <a href="#catalog-openarm"><img src="media/openarm-2.0.jpg" alt="OpenArm 2.0 bimanual robot" width="150"></a> | [Enactic OpenArm 2.0](#catalog-openarm) | Dual-arm (7 DOF each) | Damiao | From $6,500 | Bimanual system; inclusions depend on vendor |
 | <a href="#catalog-ab-so-bot"><img src="media/ab-so-bot.png" alt="Mr-C4T/AB-SO-BOT" width="150"></a> | [Mr-C4T/AB-SO-BOT](#catalog-ab-so-bot) | Dual-arm (5 DOF each) | Feetech | Not listed | — |
 | <a href="#catalog-dual-scorpion"><img src="media/dual-scorpion.jpg" alt="Dual Scorpion" width="150"></a> | [Dual Scorpion](#catalog-dual-scorpion) | Dual-arm (7 DOF each) | Feetech | ≈$637 | 2 leaders + 2 followers; project estimate, cameras extra |
@@ -375,6 +377,27 @@ AIRA is a 3D-printable robotic arm with six arm joints and a gripper. Its follow
 The [project BOM](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/hardware/BOM.md#cost-summary) estimates **~$1,850 for leader + follower parts**, including filament and screws but excluding the optional camera, shipping, and import duties. Follower-only parts are ~$1,650; the full pair including shipping and duties is estimated at ~$2,200–$2,750 (early-2026 project estimates).
 
 _Image: cropped frame from the [AIRA demo video](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/media/aira_demo.mp4), shared by the [Apache 2.0 licensed project](https://github.com/robertorobotics/Nextis-AIRA-3D/blob/main/LICENSE)._
+
+<a id="catalog-seeed-rebot"></a>
+
+### [Seeed Studio reBot B601](https://github.com/Seeed-Projects/reBot-DevArm)
+
+Metal-and-3D-printed robot arm with **6 DOF plus a parallel gripper**, available assembled or as a kit. The **B601-DM** uses Damiao motors (24 V), with a published 1.5 kg payload and 767 mm maximum reach; the **B601-RS** uses RobStride motors (48 V), with 2.5 kg payload and 754 mm maximum reach. Seeed recommends working within 70% of reach; these payloads should not be assumed at full extension. See the [DM load tests](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/hardware/reBot_B601_DM/performance_testing/Performance_Testing.md).
+
+<img src="media/rebot-b601-dm.png" alt="Seeed reBot B601-DM" width="250"> <img src="media/rebot-b601-rs.webp" alt="Seeed reBot B601-RS" width="250">
+
+**LeRobot:** [upstream support](https://github.com/huggingface/lerobot/blob/main/docs/source/rebot_b601.mdx) covers both motor variants, calibration, teleoperation, and recording, including bimanual setups. A separate reBot Arm 102 leader can be used for teleoperation.
+
+**Open hardware:** STEP files, printable parts, assembly guides, and BOMs are published for [DM](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/hardware/reBot_B601_DM/readme.md) and [RS](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/hardware/reBot_B601_RS/README.md). Hardware designs use CERN-OHL-W-2.0; the project lists Apache-2.0 for software.
+
+#### Price
+
+- **[B601-DM: $1,499](https://www.seeedstudio.com/reBot-Arm-B601-DM-p-6740.html)** for one assembled follower with gripper.
+- **[B601-RS: $1,699](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assembled-Kit-with-Gripper-p-6865.html)** for one assembled follower with gripper.
+
+Power supply, clamps, leader, cameras, and computer are extra for these arm-only listings; shipping and taxes may also apply. DIY sub-kits and bundles have different inclusions.
+
+_Images: Seeed Studio's [DM](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/media/v1.1.png) and [RS](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/media/RS5_56.webp) hardware renders, reproduced unchanged from the [CERN-OHL-W-2.0 licensed project](media/rebot-b601.LICENSE.txt)._
 
 <a id="bi-manual-arms"></a>
 
