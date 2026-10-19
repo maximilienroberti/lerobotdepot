@@ -388,9 +388,9 @@ Metal-and-3D-printed robot arm with **6 DOF plus a parallel gripper**, available
 
 <img src="media/rebot-b601-dm.png" alt="Seeed reBot B601-DM" width="250"> <img src="media/rebot-b601-rs.webp" alt="Seeed reBot B601-RS" width="250">
 
-**LeRobot:** [upstream support](https://github.com/huggingface/lerobot/blob/main/docs/source/rebot_b601.mdx) covers both motor variants, calibration, teleoperation, and recording, including bimanual setups. A separate reBot Arm 102 leader can be used for teleoperation.
+**LeRobot:** [upstream support](https://github.com/huggingface/lerobot/blob/main/docs/source/rebot_b601.mdx) covers both motor variants, calibration, teleoperation, and recording, including bimanual setups. The optional Star Arm 102-LD (reBot Arm 102) leader supports teleoperation.
 
-**Open hardware:** STEP files, printable parts, assembly guides, and BOMs are published for [DM](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/hardware/reBot_B601_DM/readme.md) and [RS](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/hardware/reBot_B601_RS/README.md). Hardware designs use CERN-OHL-W-2.0; the project lists Apache-2.0 for software.
+**Follower hardware:** STEP files, printable parts, assembly guides, and BOMs are published for [DM](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/hardware/reBot_B601_DM/readme.md) and [RS](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/hardware/reBot_B601_RS/README.md). Hardware designs use CERN-OHL-W-2.0; the project lists Apache-2.0 for software.
 
 #### Price
 
@@ -398,6 +398,8 @@ Metal-and-3D-printed robot arm with **6 DOF plus a parallel gripper**, available
 - **[B601-RS: $1,699](https://www.seeedstudio.com/reBot-Arm-B601-RS-Assembled-Kit-with-Gripper-p-6865.html)** for one assembled follower with gripper.
 
 Power supply, clamps, leader, cameras, and computer are extra for these arm-only listings; shipping and taxes may also apply. DIY sub-kits and bundles have different inclusions.
+
+**Optional leader:** [Star Arm 102-LD](https://fashionstar.com.hk/store/product/star-arm-102-ld/) costs **$199 assembled / $159 DIY**, or [**$200 from Seeed**](https://www.seeedstudio.com/Star-Arm-102-p-6765.html); its 12 V power adapter is extra. To build it, see the [BOM and CAD/print files](https://github.com/servodevelop/Star-Arm-102/tree/main/hardware/102-ld) and [assembly guide](https://github.com/servodevelop/Star-Arm-102/blob/main/docs/diy-assembly/README.md). These files are public, but the leader's [hardware license is not yet established](https://github.com/servodevelop/Star-Arm-102/blob/main/LICENSE.md).
 
 _Images: Seeed Studio's [DM](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/media/v1.1.png) and [RS](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/media/RS5_56.webp) hardware renders, reproduced unchanged from the [CERN-OHL-W-2.0 licensed project](media/rebot-b601.LICENSE.txt)._
 
