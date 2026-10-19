@@ -32,7 +32,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | --- | --- | --- | --- | --- |
 | <a href="#catalog-so-arm100"><img src="media/so-arm100.jpg" alt="SO-100 &amp; SO-101 Arms" width="150"></a> | [SO-100 & SO-101 Arms](#catalog-so-arm100) | Robot arm | Feetech | $122, one arm |
 | <a href="#catalog-so-arm102"><img src="https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg" alt="Robonine SO-ARM 102" width="150"></a> | [Robonine SO-ARM 102](#catalog-so-arm102) | Robot arm | Feetech | ≈$404, leader + follower components incl. camera; ≈$444 with printing material |
-| <a href="#catalog-am-arm200"><img src="media/am-arm200.jpg" alt="AM-ARM200" width="150"></a> | [liyiteng/AM-ARM200](#catalog-am-arm200) | Robot arm (project LeRobot fork) | Feetech STS3215 + STS3095 | ≈$243 follower / ≈$144 leader, priced parts |
+| <a href="#catalog-am-arm200"><img src="media/am-arm200.jpg" alt="AM-ARM200" width="150"></a> | [liyiteng/AM-ARM200](#catalog-am-arm200) | Robot arm | Feetech | ≈$243 follower / ≈$144 leader, priced parts |
 | <a href="#catalog-moss-robot-arm"><img src="media/moss-robot-arm.png" alt="jess-moss/moss-robot-arms" width="150"></a> | [jess-moss/moss-robot-arms](#catalog-moss-robot-arm) | Robot arm | Feetech | $159, one arm |
 | <a href="#catalog-so-arm107"><img src="media/so-arm107.jpg" alt="ajinkyagorad/SO-ARM107" width="150"></a> | [ajinkyagorad/SO-ARM107](#catalog-so-arm107) | Robot arm | Feetech | Not listed (SO-100 + servo) |
 | <a href="#catalog-so101-6dof"><img src="media/so101-6dof.jpg" alt="SO-101 6-DoF variant" width="150"></a> | [SO-101 6-DoF variant](#catalog-so101-6dof) | Robot arm variant | Feetech | Not listed |
