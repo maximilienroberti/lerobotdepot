@@ -403,6 +403,8 @@ Power supply, clamps, leader, cameras, and computer are extra for these arm-only
 
 _Images: Seeed Studio's [DM](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/media/v1.1.png) and [RS](https://github.com/Seeed-Projects/reBot-DevArm/blob/main/media/RS5_56.webp) hardware renders, reproduced unchanged from the [CERN-OHL-W-2.0 licensed project](media/rebot-b601.LICENSE.txt)._
 
+---
+
 <a id="bi-manual-arms"></a>
 
 ## Dual-arm robots
