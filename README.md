@@ -31,7 +31,7 @@ Select a project or its picture to jump to the detailed entry below. Prices are 
 | Preview | Project | Type | Motors | Listed price / scope |
 | --- | --- | --- | --- | --- |
 | <a href="#catalog-so-arm100"><img src="media/so-arm100.jpg" alt="SO-100 &amp; SO-101 Arms" width="150"></a> | [SO-100 & SO-101 Arms](#catalog-so-arm100) | Robot arm | Feetech | $122, one arm |
-| <a href="#catalog-so-arm102"><img src="https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg" alt="Robonine SO-ARM 102" width="150"></a> | [Robonine SO-ARM 102](#catalog-so-arm102) | Robot arm | Feetech | ≈$629, leader + follower components; ≈$684 with printing material |
+| <a href="#catalog-so-arm102"><img src="https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg" alt="Robonine SO-ARM 102" width="150"></a> | [Robonine SO-ARM 102](#catalog-so-arm102) | Robot arm | Feetech | ≈$404, leader + follower components incl. camera; ≈$444 with printing material |
 | <a href="#catalog-am-arm200"><img src="media/am-arm200.jpg" alt="AM-ARM200" width="150"></a> | [liyiteng/AM-ARM200](#catalog-am-arm200) | Robot arm (project LeRobot fork) | Feetech STS3215 + STS3095 | ≈$243 follower / ≈$144 leader, priced parts |
 | <a href="#catalog-moss-robot-arm"><img src="media/moss-robot-arm.png" alt="jess-moss/moss-robot-arms" width="150"></a> | [jess-moss/moss-robot-arms](#catalog-moss-robot-arm) | Robot arm | Feetech | $159, one arm |
 | <a href="#catalog-so-arm107"><img src="media/so-arm107.jpg" alt="ajinkyagorad/SO-ARM107" width="150"></a> | [ajinkyagorad/SO-ARM107](#catalog-so-arm107) | Robot arm | Feetech | Not listed (SO-100 + servo) |
@@ -144,7 +144,7 @@ Both **assembled** and **non-assembled** kits are available, depending on the su
 
 ### [roboninecom/SO-ARM-102](https://github.com/roboninecom/SO-ARM-102)
 
-SO-ARM 102 is a 3D-printable leader-follower arm by Robonine with **5 DOF plus a parallel gripper**, an 85 mm gripper opening, and a wrist camera mount. It retains the SO-101 joint layout and uses the LeRobot SO-101 leader/follower workflow. The repository includes STEP/STL files, 3MF printing projects, a BOM, assembly instructions and a standalone URDF/Xacro follower model. See the [software setup](https://github.com/roboninecom/SO-ARM-102#4-set-up-the-software) and the [first-release known issues](https://github.com/roboninecom/SO-ARM-102#-known-issues).
+3D-printable leader-follower arm with **5 DOF plus an 85 mm parallel gripper** and wrist camera. The repository includes STEP/STL files, 3MF printing projects, assembly instructions, and a URDF/Xacro follower model.
 
 <img src="https://raw.githubusercontent.com/roboninecom/SO-ARM-102/a62866a6d65efa4be7fd421e318ce8e649ac806a/assets/images/photos/so-arm-102-live.jpg" alt="Robonine SO-ARM 102 follower arm" width="500">
 
@@ -152,15 +152,13 @@ SO-ARM 102 is a 3D-printable leader-follower arm by Robonine with **5 DOF plus a
 
 _Photo: Robonine, [SO-ARM 102 project](https://github.com/roboninecom/SO-ARM-102), [CC BY 4.0](https://github.com/roboninecom/SO-ARM-102/blob/a62866a6d65efa4be7fd421e318ce8e649ac806a/DOCS-LICENSE.txt). Original image: 1600 × 900 px._
 
-#### Price
+**Reach and payload:** **48.3 cm horizontal radius**, calculated from the model to the gripper tip; the project lists a **300 g rated payload**. Its published load/temperature test used six STS3250 servos, differing from the mixed-servo BOM below. See the [specifications and test conditions](https://github.com/roboninecom/SO-ARM-102/blob/main/docs/specifications.md).
 
-The [project BOM](https://github.com/roboninecom/SO-ARM-102/blob/main/docs/bom.md#estimated-cost-for-one-leader--follower-kit) estimates **≈$629 for one leader + follower kit's components**, or **≈$684 including printing material**. Buying the example full packs and filament spools from scratch is ≈$760. These are DIY budget estimates, not a retail kit price; shipping, taxes, tools, a computer and a printer are excluded.
+**Build:** the 12 V follower uses 2 × STS3235, 2 × STS3250, and 2 × STS3215; the 5 V leader uses 6 × STS3215. Each arm needs a bus-servo controller. The [printing guide](https://github.com/roboninecom/SO-ARM-102/blob/main/docs/printing.md) recommends PET-CF for the load-bearing parts and PETG or PET-CF for the gripper and covers.
 
-The follower uses 2 × STS3235, 2 × STS3250 and 2 × STS3215 servos at **12 V**. The leader uses 6 × STS3215 at **5 V**.
+**LeRobot:** uses the SO-101 leader/follower workflow; follow the [software setup](https://github.com/roboninecom/SO-ARM-102#4-set-up-the-software). This is a first public release with [known build issues](https://github.com/roboninecom/SO-ARM-102#-known-issues), including tight gripper fits and a missing camera-holder STEP source.
 
-#### Kits
-
-- [Robonine kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)
+**Price:** approximately **$404 per leader + follower pair** in components, including a wrist camera, or **$444 with printing material** ([project BOM](https://github.com/roboninecom/SO-ARM-102/blob/main/docs/bom.md#estimated-kit-cost)). Buying full packs and filament spools is about **$504**. These are published DIY estimates; shipping, taxes, tools, computer, printer, electricity, and assembly labour are excluded. A [Robonine kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/) is also available.
 
 Hardware designs: [CERN-OHL-P-2.0](https://github.com/roboninecom/SO-ARM-102/blob/a62866a6d65efa4be7fd421e318ce8e649ac806a/HARDWARE-LICENSE.txt). Control software: external [LeRobot](https://github.com/huggingface/lerobot), Apache-2.0. Simulation files are currently covered by CC-BY-4.0 in the [REUSE map](https://github.com/roboninecom/SO-ARM-102/blob/a62866a6d65efa4be7fd421e318ce8e649ac806a/REUSE.toml).
 
@@ -170,13 +168,17 @@ Hardware designs: [CERN-OHL-P-2.0](https://github.com/roboninecom/SO-ARM-102/blo
 
 ### [liyiteng/AM-ARM200](https://github.com/liyiteng/AM-ARM)
 
-3D-printable **6-DOF arm plus gripper**, adding wrist yaw compared with SO-100/SO-101. The project reports **52 cm reach and 1 kg payload**, without specifying the payload test reach, pose, or duration. The repository includes STL and STEP files, a [parts list](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/bom.md), and [assembly instructions](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/hardware_assembly.md).
+3D-printable leader-follower arm with **6 DOF plus gripper**, adding wrist yaw compared with SO-100/SO-101. The repository includes STL/STEP files, [assembly instructions](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/hardware_assembly.md), and a wrist camera mount; a gripper opening dimension is not specified in the linked guide.
 
 <img src="media/am-arm200.jpg" alt="AM-ARM200 printed follower arm" width="500">
 
-**Build requirements:** the follower uses four Feetech STS3215 and three STS3095 servos with a 12V supply; the leader uses seven STS3215 servos with a 5V supply. Each arm needs a bus-servo controller. LeRobot workflows are documented in the project's [lerobot_alohamini fork](https://github.com/liyiteng/lerobot_alohamini/blob/main/docs/alohamini/am-arm200.md); upstream LeRobot requires the motor-table and seven-joint configuration changes described in the [project README](https://github.com/liyiteng/AM-ARM).
+**Reach and payload:** the project advertises **52 cm reach and 1 kg payload**, without specifying the reach measurement reference or the payload test reach, pose, or duration.
 
-**Price:** approximately **$243 follower / $144 leader / $388 per pair** in priced parts ([project BOM](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/bom.md)), excluding unpriced fasteners/inserts, printing, optional cameras, shipping, and taxes.
+**Build:** the 12 V follower uses 4 × STS3215 and 3 × STS3095; the 5 V leader uses 7 × STS3215. Each arm needs a bus-servo controller. The [printing guide](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/3d-print.md) supports PLA, PETG, or ABS and strongly recommends six walls for the follower.
+
+**LeRobot:** the documented [lerobot_alohamini fork workflow](https://github.com/liyiteng/lerobot_alohamini/blob/main/docs/alohamini/am-arm200.md) uses AM-ARM200-specific leader/follower profiles for calibration, teleoperation, recording, and training. The [project README](https://github.com/liyiteng/AM-ARM) also provides upstream patch instructions for STS3095 support and the extra joint.
+
+**Price:** approximately **$243 follower / $144 leader / $388 per pair** in priced parts ([project BOM](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/bom.md)), excluding unpriced fasteners/inserts, printing, optional cameras, shipping, and taxes. These are published DIY estimates, not a complete kit price.
 
 _Image: Li Yiteng and Wu Zhiyong's [AM-ARM200 banner](https://github.com/liyiteng/AM-ARM/blob/main/am-arm200/media/am-arm200-banner.png), cropped and resized under [Apache-2.0](media/am-arm200.LICENSE.txt)._
 
