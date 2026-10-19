@@ -42,7 +42,7 @@ Each row shows **one price** and **what it covers**. Arm prices use a leader + f
 | <a href="#catalog-so101-6dof"><img src="media/so101-6dof.jpg" alt="SO-101 6-DoF variant" width="150"></a> | [SO-101 6-DoF variant](#catalog-so101-6dof) | Robot arm variant (6 DOF) | Feetech | Not listed | — |
 | <a href="#catalog-so101-extended"><img src="media/so101-extended.jpg" alt="SO-101 extended arm" width="150"></a> | [SO-101 extended arm](#catalog-so101-extended) | Robot arm variant (5 DOF) | Feetech | Not listed | — |
 | <a href="#catalog-el-robot"><img src="media/el_robot.png" alt="norma-core/ElRobot" width="150"></a> | [norma-core/ElRobot](#catalog-el-robot) | Robot arm (7 DOF) | Feetech | ≈$220 | 1 follower; project parts estimate |
-| <a href="#catalog-sam-arm"><img src="media/SAM_arm.png" alt="SAM arm" width="150"></a> | [SAM arm](#catalog-sam-arm) | Robot arm (DOF unverified) | Feetech | Not verified | Leader + follower; earlier estimate unconfirmed |
+| <a href="#catalog-sam-arm"><img src="media/SAM_arm.png" alt="SAM arm" width="150"></a> | [SAM arm](#catalog-sam-arm) | Robot arm (6 DOF) | Feetech | Not verified | Leader + follower; earlier estimate unconfirmed |
 | <a href="#catalog-pingti-arm"><img src="media/PingTi-Arm.png" alt="nomorewzx/PingTi-Arm" width="150"></a> | [nomorewzx/PingTi-Arm](#catalog-pingti-arm) | Robot arm (5 DOF) | Feetech | ≈$390 | 1 SO-100 leader + 1 PingTi follower; parts estimate |
 | <a href="#catalog-koch-v1-1"><img src="media/koch-v1-1.png" alt="jess-moss/koch-v1-1" width="150"></a> | [jess-moss/koch-v1-1](#catalog-koch-v1-1) | Robot arm (5 DOF) | Dynamixel | ≈$477 | 1 leader + 1 follower; BOM parts, printing/cameras extra |
 | <a href="#catalog-omx"><img src="media/omx.png" alt="robotis/omx" width="150"></a> | [robotis/omx](#catalog-omx) | Robot arm (5 DOF) | Dynamixel | $250 | 1 leader + 1 follower; motor kit, printed parts extra |
@@ -269,7 +269,7 @@ This is a **7 DOF arm**. While it is not officially supported by the LeRobot lib
 
 ### SAM arm
 
-An arm developed by the community around the [SimpleAutomation repository](https://github.com/SimpleAutomationOrg/SimpleAutomation); its arm DOF count is not confirmed in the public documentation. It is a refined version of the SO-ARM100, offering enhanced movement precision and a gripper better optimized for handling small objects.
+This is a **6 DOF arm**, developed by the community around the [SimpleAutomation repository](https://github.com/SimpleAutomationOrg/SimpleAutomation). It is a refined version of the SO-ARM100, offering enhanced movement precision and a gripper better optimized for handling small objects.
 
 <img src="media/SAM_arm.png" width="500">
 
