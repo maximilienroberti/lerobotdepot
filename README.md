@@ -106,6 +106,8 @@ This **5 DOF arm** is the recommended arm to get started with LeRobot—especial
 | Follower and Leader arms  | $230  | €226  | ￥1343 |
 | One Arm                   | $122  | €124  | ￥682  |
 
+The table above mirrors the official BOM list prices. Shops move. A dated US retail re-check of the same parts (each price linked to its shop) is in [HermesBeck/so-101-price-check](https://github.com/HermesBeck/so-101-price-check): on Oct 30, 2026 one follower arm was $131.69 and a leader + follower pair was $254.48 before shipping and tax. Disclosure: that repo is ours.
+
 #### Accessories <a name="so-arm100-accessories"></a>
 
 For detailed information on the various accessories available for the SO-ARM100, including mounting options and additional components, please refer to the [SO-ARM100 repository’s hardware documentation](https://github.com/TheRobotStudio/SO-ARM100?tab=readme-ov-file#hardware).
