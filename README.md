@@ -144,6 +144,8 @@ You can find kits for the SO100 arms here:
 
 Both **assembled** and **non-assembled** kits are available, depending on the supplier.
 
+**Buying an SO-101 pair?** Check that the quote covers both the leader and follower. Use the [LeRobot parts guide](https://huggingface.co/docs/lerobot/so101#source-the-parts) to confirm the required hardware. For a motor kit, check which 3D-printed parts, power supplies, cables, and cameras you still need. The free [Modurobot kit comparison and worksheet](https://modurobot.com/so101.html?from=community#kit-options) lets you mark which parts you still need and enter your own shipping and tax costs. The worksheet page contains disclosed supplier affiliate links.
+
 ---
 
 <a id="catalog-so-arm102"></a>
