@@ -55,6 +55,7 @@ Each row shows **one price** and **what it covers**. Arm prices use a leader + f
 | <a href="#catalog-aloha-2"><img src="media/aloha-2.png" alt="ALOHA 2" width="150"></a> | [ALOHA 2](#catalog-aloha-2) | Dual-arm (6 DOF each) | Dynamixel | Not verified | 2 leaders + 2 followers; retail kit discontinued |
 | <a href="#catalog-lekiwi"><img src="media/LeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Feetech)](#catalog-lekiwi) | Mobile arm (5 DOF) | Feetech | ≈$482 | 12 V base + 1 follower + 1 leader; printing extra |
 | <a href="#catalog-dynamixellekiwi"><img src="media/DynamixelLeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Dynamixel)](#catalog-dynamixellekiwi) | Mobile arm (5 DOF) | Dynamixel | Not listed | — |
+| <a href="#catalog-omnibot"><img src="media/omnibot.jpg" alt="ohho-robotics/ohho-omnibot" width="150"></a> | [ohho-robotics/OmniBot](#catalog-omnibot) | Mobile arm (5 DOF) | Feetech | Not listed | — |
 | <a href="#catalog-alohamini"><img src="media/AlohaMini.png" alt="liyiteng/AlohaMini" width="150"></a> | [liyiteng/AlohaMini](#catalog-alohamini) | Mobile dual-arm (5 DOF each) | Feetech | ≈$600 | AlohaMini1 robot parts; leaders/printing extra |
 | <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm (5 DOF each) | Feetech | ≈$660 | Robot parts; leaders/printing/laptop extra |
 | <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm (5 DOF each) | Feetech | ≈$300 | Robot parts; leaders/power bank/compute/printing extra |
@@ -516,6 +517,16 @@ The [project BOM](https://github.com/SIGRobotics-UIUC/LeKiwi/blob/main/BOM.md) i
 Converted version of LeKiwi to use ROBOTIS components by using the Koch v1.1 arm, U2D2 motor controller, and Dynamixel XL430 motors for the mobile base.
 
 <img src="media/DynamixelLeKiwi.png" width="500">
+
+---
+
+<a id="catalog-omnibot"></a>
+
+### [ohho-robotics/OmniBot](https://github.com/ohho-robotics/ohho-omnibot)
+
+Open-source ROS 2 mobile manipulator: a mecanum-wheel base with an SO-101 arm, Gazebo/Nav2 simulation, gamepad, leader-arm and VR teleoperation, and a recorder that writes LeRobot datasets. Apache-2.0.
+
+<img src="media/omnibot.jpg" width="500">
 
 ---
 
