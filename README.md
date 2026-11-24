@@ -55,7 +55,7 @@ Each row shows **one price** and **what it covers**. Arm prices use a leader + f
 | <a href="#catalog-aloha-2"><img src="media/aloha-2.png" alt="ALOHA 2" width="150"></a> | [ALOHA 2](#catalog-aloha-2) | Dual-arm (6 DOF each) | Dynamixel | Not verified | 2 leaders + 2 followers; retail kit discontinued |
 | <a href="#catalog-lekiwi"><img src="media/LeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Feetech)](#catalog-lekiwi) | Mobile arm (5 DOF) | Feetech | ≈$482 | 12 V base + 1 follower + 1 leader; printing extra |
 | <a href="#catalog-dynamixellekiwi"><img src="media/DynamixelLeKiwi.png" alt="SIGRobotics-UIUC/LeKiwi" width="150"></a> | [LeKiwi (Dynamixel)](#catalog-dynamixellekiwi) | Mobile arm (5 DOF) | Dynamixel | Not listed | — |
-| <a href="#catalog-omnibot"><img src="media/omnibot.jpg" alt="ohho-robotics/ohho-omnibot" width="150"></a> | [ohho-robotics/OmniBot](#catalog-omnibot) | Mobile arm (5 DOF) | Feetech | Not listed | — |
+| <a href="#catalog-omnibot"><img src="media/omnibot.jpg" alt="ohho-robotics/ohho-omnibot" width="150"></a> | [ohho-robotics/OmniBot](#catalog-omnibot) | Mobile arm (5 DOF) | Feetech | ≈$750 | mecanum base + Pi 5 + 1 follower + cameras; leader/Quest/GPU/printing extra |
 | <a href="#catalog-alohamini"><img src="media/AlohaMini.png" alt="liyiteng/AlohaMini" width="150"></a> | [liyiteng/AlohaMini](#catalog-alohamini) | Mobile dual-arm (5 DOF each) | Feetech | ≈$600 | AlohaMini1 robot parts; leaders/printing extra |
 | <a href="#catalog-xlerobot"><img src="media/xlerobot.png" alt="Vector-Wangel/XLeRobot" width="150"></a> | [Vector-Wangel/XLeRobot](#catalog-xlerobot) | Mobile dual-arm (5 DOF each) | Feetech | ≈$660 | Robot parts; leaders/printing/laptop extra |
 | <a href="#catalog-bambot"><img src="media/bambot.png" alt="timqian/bambot" width="150"></a> | [timqian/bambot](#catalog-bambot) | Mobile dual-arm (5 DOF each) | Feetech | ≈$300 | Robot parts; leaders/power bank/compute/printing extra |
@@ -527,6 +527,12 @@ Converted version of LeKiwi to use ROBOTIS components by using the Koch v1.1 arm
 Open-source ROS 2 mobile manipulator: a mecanum-wheel base with an SO-101 arm, Gazebo/Nav2 simulation, gamepad, leader-arm and VR teleoperation, and a recorder that writes LeRobot datasets. Apache-2.0.
 
 <img src="media/omnibot.jpg" width="500">
+
+|              Price        | US     |
+|---------------------------|--------|
+| Robot parts (parts estimate) | ≈$750 |
+
+The project [hardware list](https://github.com/ohho-robotics/ohho-omnibot?tab=readme-ov-file#hardware-bill-of-materials) is not yet priced. This estimate covers a Yahboom 80 mm mecanum chassis and [ROS expansion board](https://www.yahboom.store/products/ros-driver-board) ($79), a [Raspberry Pi 5 8GB](https://www.pishop.us/product/raspberry-pi-5-8gb/) ($175), one [SO-101 follower](https://github.com/TheRobotStudio/SO-ARM100?tab=readme-ov-file#sourcing-parts) ($122), an Orbbec Astra Pro depth camera, a wrist camera, and an Xbox controller. A leader arm, Meta Quest headset, desktop GPU PC, printing, battery, wiring, mounts, shipping, and taxes are extra.
 
 ---
 
