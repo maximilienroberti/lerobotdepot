@@ -70,6 +70,7 @@ Each row shows **one price** and **what it covers**. Arm prices use a leader + f
 | Preview | Project | What it adds | Fits / use | Listed price / scope |
 | --- | --- | --- | --- | --- |
 | <a href="#catalog-grip4so101"><img src="media/grip4so101.jpg" alt="Grip4SO101" width="150"></a> | [Grip4SO101](#catalog-grip4so101) | Modular gripper | SO-101 | ≈$90–$100, gripper hardware estimate |
+| <a href="#catalog-so-arm101-suction-mount"><img src="media/so-arm101-suction-mount.jpg" alt="SO-ARM101 suction cup and printed mount" width="150"></a> | [SO-ARM101 Suction Mount](#catalog-so-arm101-suction-mount) | Vacuum end effector | SO-101 | From US$18.95, reference listing |
 | <a href="#catalog-pincopen"><img src="media/PincOpen.png" alt="pollen-robotics/PincOpen" width="150"></a> | [pollen-robotics/PincOpen](#catalog-pincopen) | Gripper | SO-100 | ≈€25, gripper |
 | <a href="#catalog-so-arm-symmetrical-gripper"><img src="media/so-arm_symmetrical_gripper.png" alt="SiegeLord/Symmetrical Gripper" width="150"></a> | [SiegeLord/Symmetrical Gripper](#catalog-so-arm-symmetrical-gripper) | Gripper | SO-10X family | Not listed |
 | <a href="#catalog-so-100-chojins-gripper"><img src="media/so-100_chojins_gripper.png" alt="Chojins/LeRobot-S0-100-Models" width="150"></a> | [Chojins/LeRobot-S0-100-Models](#catalog-so-100-chojins-gripper) | Gripper | SO-100 | Not listed |
@@ -657,6 +658,20 @@ Modular, 3D-printable gripper for the SO-101 with interchangeable jaws. It repla
 <img src="media/grip4so101.jpg" width="500">
 
 _Image source: [Grip4SO101 project](https://github.com/XiujinLiu/Grip4SO101/blob/main/img/gripper_line.jpg) (MIT license)._
+
+---
+
+<a id="catalog-so-arm101-suction-mount"></a>
+
+### [mnaskret/SO-ARM101 Suction Mount](https://github.com/mnaskret/soArm101_suctionMount)
+
+A 3D-printable vacuum end effector for the SO-101. It reuses the stock gripper servo to pivot the suction cup. The project provides STL files, editable part files, and a [URDF with a dedicated suction tool center point](https://github.com/mnaskret/soArm101_suctionMount/blob/main/so_arm101_sp.urdf).
+
+The mount was designed around one [PWM-controlled vacuum pump and suction cup assembly](https://pl.aliexpress.com/item/1005006885601348.html). Different pump or cup variants may require changes to the printed parts. [Pricearchive](https://www.pricearchive.org/aliexpress.com/item/1005006885601348) recorded **US$18.95** for the cheapest option on that listing on November 22, 2026. The project does not specify which option it used, so the exact pump-and-cup price is unverified.
+
+<img src="media/so-arm101-suction-mount.jpg" alt="SO-ARM101 suction cup and printed mount" width="500">
+
+_Image by [mnaskret](https://github.com/mnaskret/soArm101_suctionMount/blob/main/docs/images/IMG_1895.JPEG), cropped and resized under the [Apache 2.0 license](media/so-arm101-suction-mount.LICENSE.txt)._
 
 ---
 
