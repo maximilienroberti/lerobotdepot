@@ -81,7 +81,7 @@ Each row shows **one price** and **what it covers**. Arm prices use a leader + f
 | <a href="#catalog-leflexitac"><img src="media/leflexitac.jpg" alt="TNA001-AI/lerobot_tactile" width="150"></a> | [TNA001-AI/lerobot_tactile](#catalog-leflexitac) | Tactile gripper | SO-10X | ≈$44, tactile add-on |
 | <a href="#catalog-track-axis"><img src="media/track_axis.png" alt="avenhaus/SO-ARM100-Track-Axis" width="150"></a> | [avenhaus/SO-ARM100-Track-Axis](#catalog-track-axis) | Linear axis | SO-100 | Not listed |
 | <a href="#catalog-leslider"><img src="media/leslider.jpg" alt="pham-tuan-binh/leslider" width="150"></a> | [pham-tuan-binh/leslider](#catalog-leslider) | Linear axis | SO-101 | ≈$40, main slider hardware |
-| <a href="#catalog-so-frame"><img src="media/so-frame.png" alt="SO-Frame schematic showing the arm, slider, and two cameras" width="150"></a> | [SO-Frame](#catalog-so-frame) | Evaluation frame | SO-101 with LeSlider | ≈€208, extrusion only |
+| <a href="#catalog-so-frame"><img src="https://raw.githubusercontent.com/livekit-examples/so-frame/907bc3182236acd0b815c633fabff25bf2dac138/simulation/assets/setup.png" alt="SO-Frame simulation render showing the SO-101 on its sliding rail" width="150"></a> | [SO-Frame](#catalog-so-frame) | Evaluation frame | SO-101 with LeSlider | ≈€208, extrusion only |
 | <a href="#catalog-so-arm-screwdriver"><img src="media/so-arm_screwdriver.png" alt="jackvial/assembler0" width="150"></a> | [jackvial/assembler0](#catalog-so-arm-screwdriver) | Screwdriver + camera mount | SO-101 | Not listed |
 | <a href="#catalog-koch-screwdriver-camera-mount"><img src="media/koch_screwdriver_camera_mount.png" alt="jackvial/koch_robotic_arm_screwdriver" width="150"></a> | [jackvial/koch_robotic_arm_screwdriver](#catalog-koch-screwdriver-camera-mount) | Screwdriver + camera mount | Koch arm | Not listed |
 | <a href="#catalog-open-arms-mini"><img src="media/open-arms-mini.jpg" alt="Open Arms Mini" width="150"></a> | [Open Arms Mini](#catalog-open-arms-mini) | 7-DOF leader arm + gripper | OpenArm teleoperation; Feetech STS3215 |
@@ -803,9 +803,9 @@ A benchtop evaluation frame for an SO-101 on a [LeSlider](#catalog-leslider) lin
 
 **Extrusion estimate:** about €208. The frame needs five 1,000 mm and nine 500 mm pieces. Example buying quantities are [two 3-packs of 1,000 mm extrusion](https://pantelides.eu/product/aluminum-t-slot-2020-extruded-profile-20x20-6mm-length-1000mm-40-3-pieces/) at €48.90 each and [three 4-packs of 500 mm extrusion](https://pantelides.eu/product/aluminum-t-slot-extruded-profile-20x20-6-length-500mm/) at €36.60 each (€207.60 total). Brackets, fasteners, handles, panels and CNC cutting, LeSlider and its printed parts, the arm, cameras, shipping, and any applicable taxes are outside this subtotal.
 
-<img src="media/so-frame.png" alt="SO-Frame schematic showing the arm, slider, and two cameras" width="500">
+<img src="https://raw.githubusercontent.com/livekit-examples/so-frame/907bc3182236acd0b815c633fabff25bf2dac138/simulation/assets/setup.png" alt="SO-Frame simulation render showing the SO-101 on its sliding rail" width="500">
 
-_Original schematic based on the [upstream mounting and camera documentation](https://github.com/livekit-examples/so-frame/blob/main/simulation/urdf/README.md)._
+_Simulation render by [LiveKit](https://github.com/livekit-examples/so-frame/blob/907bc3182236acd0b815c633fabff25bf2dac138/simulation/assets/setup.png)._
 
 [Watch LiveKit’s physical rig demo](https://github.com/livekit-examples/so-frame/blob/main/assets/real.gif).
 
